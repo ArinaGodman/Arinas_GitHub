@@ -1,3 +1,7 @@
 # Arinas_GitHub
 
-Hej! Här kan du hitta dokument om mina utbildningar samt mina project i Python, SQL m.m
+Hi!
+
+Here you can find document of my education, my projects in Pthon, SQL and my Data Camp certificates :)
+
+I'll appload my projects over time. Enjoy!
