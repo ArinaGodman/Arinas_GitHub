@@ -1,0 +1,702 @@
+Pris;Lan;Stad;Bransle;Vaxellada;Miltal;Modellar;Biltyp;Drivning;Hastkrafter;Farg;Motorstorlek;Datum_i_trafik;Marke;Modell
+419000;Stockholm;Upplands-Bro;Miljobransle_Hyb;Automat;14452;2017;SUV;Fyrhjulsdriven;412;Silver;1969;2016-07-27;Volvo;XC90
+329800;Stockholm;Upplands-Bro;Diesel;Automat;11818;2018;SUV;Fyrhjulsdriven;192;Svart;1969;2018-05-30;Volvo;XC60
+239800;Stockholm;Jarfalla;Miljobransle_Hyb;Automat;11188;2016;SUV;Fyrhjulsdriven;198;Gra;2494;2016-03-10;Toyota;RAV4
+269800;Stockholm;Jarfalla;Bensin;Automat;3748;2021;Halvkombi;Tvahjulsdriven;136;Svart;1332;2020-09-30;Mercedes_Benz;A
+239800;Stockholm;Jarfalla;Bensin;Automat;13972;2017;Halvkombi;Fyrhjulsdriven;252;Svart;1998;2017-04-06;BMW;330
+174800;Stockholm;Jarfalla;Bensin;Manuell;4561;2018;Halvkombi;Tvahjulsdriven;127;Vit;988;2019-04-18;Honda;Civic
+238900;Stockholm;Jarfalla;El;Automat;1528;2022;Halvkombi;Tvahjulsdriven;150;Gra;0;2022-11-30;Nissan;Leaf
+149800;Stockholm;Jarfalla;Diesel;Manuell;8961;2016;SUV;Tvahjulsdriven;111;Vit;1461;2016-10-28;Nissan;Qashqai
+189800;Stockholm;Upplands-Bro;Diesel;Automat;14780;2015;SUV;Fyrhjulsdriven;184;Bla;2400;2014-10-30;Volvo;XC60
+134800;Stockholm;Upplands-Bro;Diesel;Manuell;12448;2014;Kombi;Tvahjulsdriven;116;Rod;1560;2014-01-21;Volvo;V60
+369900;Stockholm;Stockholms stad;Diesel;Automat;18495;2014;SUV;Fyrhjulsdriven;340;Gra;4367;2014-02-26;Land_Rover;Range Rover
+429800;Stockholm;Taby;Bensin;Automat;4541;2020;Cab;Fyrhjulsdriven;252;Bla;1998;2019-05-07;BMW;430
+299800;Stockholm;Taby;Bensin;Automat;8586;2014;Coupe;Fyrhjulsdriven;306;Rod;2979;2013-09-20;BMW;435
+389900;Stockholm;Taby;Bensin;Automat;3777;2020;SUV;Fyrhjulsdriven;200;Svart;1997;2021-01-08;Land_Rover;Range Rover Evoque
+277800;Stockholm;Taby;Miljobransle_Hyb;Automat;8771;2020;Sedan;Tvahjulsdriven;218;Rod;2487;2020-07-08;Toyota;Camry
+463500;Stockholm;Haninge;El;Automat;0;2024;SUV;Fyrhjulsdriven;214;Silver;0;NULL;Nissan;Ariya
+154700;Stockholm;Upplands-Bro;Diesel;Automat;14000;2014;Kombi;Fyrhjulsdriven;165;Svart;2400;2013-12-18;Volvo;V60
+249000;Stockholm;Stockholm;Diesel;Automat;11333;2018;Sedan;Fyrhjulsdriven;191;Svart;1969;2017-12-18;Volvo;S90
+274800;Stockholm;Upplands-Bro;Bensin;Automat;14700;2018;SUV;Fyrhjulsdriven;253;Bla;1969;2018-01-29;Volvo;XC60
+194900;Stockholm;Sodertalje;Diesel;Automat;14734;2017;Kombi;Tvahjulsdriven;192;Gra;1969;2017-01-30;Volvo;V60
+409900;Stockholm;Bromma;El;Automat;2825;2021;SUV;Tvahjulsdriven;207;Vit;0;2021-03-31;Volkswagen;ID.4
+239900;Stockholm;Bromma;Bensin;Automat;7188;2021;Halvkombi;Tvahjulsdriven;151;Vit;1498;2020-11-20;Volkswagen;Golf
+109800;Stockholm;Upplands-Bro;Diesel;Manuell;14800;2013;Kombi;Tvahjulsdriven;116;Bla;1560;2012-08-01;Volvo;V60
+409000;Stockholm;Bromma;Diesel;Automat;3116;2022;Kombi;Tvahjulsdriven;200;Rod;1993;2023-02-21;Mercedes_Benz;C
+365000;Stockholm;Bromma;Miljobransle_Hyb;Automat;1470;2023;Halvkombi;Tvahjulsdriven;218;Svart;1332;2022-12-27;Mercedes_Benz;A
+357000;Stockholm;Taby;Miljobransle_Hyb;Automat;1033;2023;Kombi;Tvahjulsdriven;187;Svart;1987;2023-09-05;Lexus;UX
+485000;Stockholm;Bromma;El;Automat;280;2023;SUV;Fyrhjulsdriven;229;Svart;0;2023-09-22;Mercedes_Benz;EQA
+399000;Stockholm;Bromma;Miljobransle_Hyb;Automat;3336;2023;Coupe;Tvahjulsdriven;218;Gra;1332;2022-09-15;Mercedes_Benz;CLA
+419000;Stockholm;Bromma;Miljobransle_Hyb;Automat;6679;2023;Kombi;Tvahjulsdriven;218;Svart;1332;2022-12-07;Mercedes_Benz;CLA
+499000;Stockholm;Bromma;El;Automat;474;2023;SUV;Fyrhjulsdriven;229;Svart;0;2023-10-03;Mercedes_Benz;EQA
+199900;Stockholm;Stockholms stad;Bensin;Manuell;3548;2021;SUV;Tvahjulsdriven;112;Rod;999;2021-02-05;Volkswagen;T-Roc
+339900;Stockholm;Stockholms stad;Bensin;Automat;5583;2022;Kombi;Tvahjulsdriven;151;Vit;1498;2021-09-29;Volkswagen;Touran
+229900;Stockholm;Jarfalla;Bensin;Automat;9358;2018;Kombi;Tvahjulsdriven;150;Vit;1395;2017-09-08;Skoda;Superb
+389800;Stockholm;osteraker;El;Automat;1828;2023;SUV;Tvahjulsdriven;204;Svart;0;2023-01-31;Kia;Niro
+129900;Stockholm;Skarholmen;Bensin;Automat;15042;2017;Halvkombi;Tvahjulsdriven;141;Bla;1353;2018-01-02;Hyundai;i30
+269900;Stockholm;Skarholmen;Miljobransle_Hyb;Automat;5850;2021;Kombi;Tvahjulsdriven;225;Vit;1598;2021-03-04;Peugeot;508
+219900;Stockholm;Skarholmen;Miljobransle_Hyb;Automat;5526;2020;Halvkombi;Tvahjulsdriven;105;Vit;1580;2020-07-03;Hyundai;IONIQ
+199900;Stockholm;Skarholmen;Bensin;Automat;2400;2021;Coupe;Tvahjulsdriven;115;Vit;999;2021-01-28;Nissan;Juke
+219900;Stockholm;Skarholmen;Miljobransle_Hyb;Automat;8251;2018;SUV;Tvahjulsdriven;98;Svart;1798;2018-05-16;Toyota;C-HR
+339900;Stockholm;Jarfalla;Diesel;Automat;7461;2020;Sedan;Fyrhjulsdriven;191;Svart;1995;2020-06-30;BMW;320
+419900;Stockholm;Haninge;Miljobransle_Hyb;Automat;2450;2022;Kombi;Fyrhjulsdriven;293;Gra;1998;2021-10-15;BMW;330e
+354901;Stockholm;Haninge;Miljobransle_Hyb;Automat;7695;2021;Kombi;Tvahjulsdriven;293;Vit;1998;2020-12-15;BMW;530e
+335000;Stockholm;Bromma;Diesel;Automat;11560;2019;SUV;Fyrhjulsdriven;191;Gra;1995;2019-03-13;BMW;X3
+259000;Stockholm;Kista;Bensin;Automat;2061;2022;SUV;Tvahjulsdriven;151;Svart;1498;2022-03-31;Audi;Q2
+239000;Stockholm;Kista;Bensin;Automat;4028;2021;SUV;Tvahjulsdriven;151;Vit;1498;2021-05-05;Audi;Q2
+169000;Stockholm;Huddinge;Bensin;Manuell;7400;2018;Halvkombi;Tvahjulsdriven;151;Vit;1498;2018-01-02;Audi;A3
+138900;Stockholm;Stockholms stad;Diesel;Automat;22800;2017;Kombi;Tvahjulsdriven;191;Vit;1968;2016-07-01;Volkswagen;Passat
+239800;Stockholm;Nacka;Bensin;Manuell;6053;2021;Halvkombi;Tvahjulsdriven;150;Vit;1498;2021-07-23;Volkswagen;Golf
+294800;Stockholm;Nacka;Miljobransle_Hyb;Automat;4301;2017;SUV;Fyrhjulsdriven;198;Svart;2494;2017-05-02;Lexus;NX
+259800;Stockholm;Nacka;Diesel;Automat;7074;2019;Kombi;Fyrhjulsdriven;180;Gra;1997;2018-09-07;Ford;Mondeo
+374800;Stockholm;Nacka;Diesel;Automat;7670;2020;Kombi;Tvahjulsdriven;191;Svart;1969;2019-10-15;Volvo;V90
+274800;Stockholm;Nacka;Diesel;Automat;8981;2015;Kombi;Fyrhjulsdriven;204;Vit;2143;2015-02-09;Mercedes_Benz;C
+324800;Stockholm;Nacka;Diesel;Automat;6310;2020;Kombi;Fyrhjulsdriven;191;Gra;1968;2020-06-11;Skoda;Superb
+389900;Stockholm;Nacka;Diesel;Automat;17656;2017;SUV;Fyrhjulsdriven;259;Svart;2987;2016-10-27;Mercedes_Benz;GLE
+190999;Stockholm;Huddinge;Bensin;Automat;8190;2019;Kombi;Tvahjulsdriven;141;Gra;1353;2019-06-19;Kia;Ceed
+219700;Stockholm;Jarfalla;Diesel;Automat;10567;2017;Kombi;Tvahjulsdriven;150;Vit;1969;2017-03-30;Volvo;V90
+238900;Stockholm;Jarfalla;Bensin;Automat;8875;2017;SUV;Fyrhjulsdriven;180;Bla;1984;2017-05-02;Volkswagen;Tiguan
+264900;Stockholm;Jarfalla;Diesel;Automat;15927;2016;SUV;Fyrhjulsdriven;170;Svart;2143;2015-10-29;Mercedes_Benz;GLC
+219700;Stockholm;Jarfalla;Bensin;Automat;6774;2017;Halvkombi;Tvahjulsdriven;183;Gra;1498;2017-05-31;Honda;Civic
+238900;Stockholm;Jarfalla;Bensin;Automat;11222;2019;Kombi;Tvahjulsdriven;191;Svart;1984;2019-08-19;Audi;A4
+237900;Stockholm;Jarfalla;Diesel;Automat;10720;2015;Kombi;Tvahjulsdriven;204;Vit;2143;2014-10-14;Mercedes_Benz;C
+269800;Stockholm;Jarfalla;Bensin;Automat;6058;2016;Coupe;Tvahjulsdriven;211;Rod;1991;2015-10-30;Mercedes_Benz;E
+269800;Stockholm;Jarfalla;Bensin;Automat;7478;2020;Kombi;Tvahjulsdriven;177;Vit;1591;2020-06-05;Hyundai;Tucson
+284800;Stockholm;Jarfalla;Diesel;Automat;16890;2017;Sedan;Fyrhjulsdriven;191;Bla;1995;2017-05-02;BMW;520
+395000;Stockholm;Haninge;Miljobransle_Hyb;Automat;1;2023;Coupe;Tvahjulsdriven;143;Vit;1598;NULL;Renault;Arkana
+379900;Stockholm;Haninge;Miljobransle_Hyb;Automat;452;2023;SUV;Tvahjulsdriven;158;Gra;1332;2023-10-13;Renault;Austral
+369900;Stockholm;Haninge;Miljobransle_Hyb;Automat;341;2023;Coupe;Tvahjulsdriven;94;Gra;1598;2023-10-13;Renault;Arkana
+439900;Stockholm;Stockholms stad;Miljobransle_Hyb;Automat;1644;2023;Kombi;Tvahjulsdriven;221;Silver;1395;2023-05-15;Volkswagen;Passat
+284700;Stockholm;Taby;Diesel;Automat;10001;2019;Kombi;Tvahjulsdriven;191;Brun;1969;2018-06-19;Volvo;V60
+374800;Stockholm;Taby;Miljobransle_Hyb;Automat;16328;2018;SUV;Fyrhjulsdriven;408;Vit;1969;2017-07-07;Volvo;XC60
+228900;Stockholm;Taby;Diesel;Automat;13811;2015;Sedan;Fyrhjulsdriven;191;Silver;1995;2015-05-08;BMW;520
+139900;Stockholm;Taby;Bensin;Automat;1007;2020;Halvkombi;Tvahjulsdriven;73;Rod;998;2020-11-06;Toyota;Aygo
+369700;Stockholm;Huddinge;El;Automat;5349;2021;Sedan;Tvahjulsdriven;325;Vit;0;2021-03-25;Tesla;Model 3
+249700;Stockholm;Huddinge;El;Automat;11199;2019;SUV;Tvahjulsdriven;204;Gra;0;2019-01-11;Kia;E-Niro
+279800;Stockholm;Huddinge;El;Automat;1651;2023;Halvkombi;Tvahjulsdriven;184;Silver;0;2022-11-02;MINI;Cooper
+239900;Stockholm;Taby;El;Automat;5163;2021;Halvkombi;Tvahjulsdriven;136;Bla;0;2021-03-12;Peugeot;208
+249900;Stockholm;Taby;El;Automat;2059;2022;Sedan;Tvahjulsdriven;136;Orange;0;2022-02-04;Peugeot;2008
+309900;Stockholm;Taby;Bensin;Automat;3072;2022;SUV;Tvahjulsdriven;131;Gra;1199;2022-09-29;Peugeot;5008
+169900;Stockholm;Sollentuna;Diesel;Automat;20600;2016;Kombi;Fyrhjulsdriven;181;Svart;2400;2015-10-29;Volvo;V70
+179900;Stockholm;Haninge;Diesel;Automat;17163;2018;SUV;Fyrhjulsdriven;150;Silver;1995;2017-11-30;BMW;X1
+134900;Stockholm;Sollentuna;Diesel;Automat;17200;2013;Kombi;Tvahjulsdriven;184;Svart;1995;2013-05-10;BMW;520
+149900;Stockholm;Kista;Bensin;Manuell;3744;2021;Kombi;Tvahjulsdriven;101;Gra;999;2021-01-29;Fiat;Tipo
+189900;Stockholm;Sodertalje;Bensin;Automat;3300;2020;Halvkombi;Tvahjulsdriven;116;Gra;999;2020-06-18;Skoda;Scala
+349000;Stockholm;Kista;Bensin;Automat;5564;2021;Coupe;Tvahjulsdriven;165;Svart;1332;2021-03-30;Mercedes_Benz;CLA
+329900;Stockholm;Stockholm;Diesel;Automat;9800;2018;SUV;Fyrhjulsdriven;170;Svart;2143;2017-09-08;Mercedes_Benz;GLC
+199900;Stockholm;Sodertalje;Diesel;Automat;12100;2015;Sedan;Fyrhjulsdriven;191;Svart;1995;2015-08-31;BMW;520
+458900;Stockholm;Upplands-Bro;Miljobransle_Hyb;Automat;5645;2021;SUV;Fyrhjulsdriven;340;Silver;1969;2020-11-13;Volvo;XC60
+279900;Stockholm;Kista;El;Automat;4573;2021;SUV;Tvahjulsdriven;204;Bla;0;2021-03-29;Kia;E-Niro
+160000;Stockholm;Stockholms stad;Bensin;Manuell;5140;2018;Kombi;Tvahjulsdriven;120;Svart;998;2017-11-22;Kia;Stonic
+245000;Stockholm;Danderyd;Bensin;Automat;8030;2021;Halvkombi;Tvahjulsdriven;136;Svart;1499;2021-04-06;BMW;118
+239900;Stockholm;Haninge;Diesel;Automat;15256;2020;Kombi;Fyrhjulsdriven;150;Svart;1969;2019-12-23;Volvo;V90
+119800;Stockholm;Sigtuna;Diesel;Automat;18000;2013;Kombi;Fyrhjulsdriven;177;Gra;1968;2012-11-19;Audi;A4
+144800;Stockholm;Taby;Diesel;Automat;12847;2017;Kombi;Tvahjulsdriven;136;Vit;1582;2017-05-10;Kia;Ceed
+414900;Stockholm;Botkyrka;El;Automat;4200;2021;Sedan;Tvahjulsdriven;441;Vit;0;2021-02-16;Tesla;Model 3
+129800;Stockholm;Tyreso;Diesel;Manuell;5469;2014;Kombi;Tvahjulsdriven;128;Bla;1582;2014-02-18;Kia;Ceed
+408900;Stockholm;Huddinge;El;Automat;4314;2021;SUV;Tvahjulsdriven;204;Gra;0;2021-04-01;Volkswagen;ID.4
+428900;Stockholm;Huddinge;El;Automat;3673;2023;Sedan;Tvahjulsdriven;283;Vit;0;2023-02-08;Tesla;Model 3
+429800;Stockholm;Huddinge;El;Automat;7418;2021;SUV;Tvahjulsdriven;204;Silver;0;2021-08-04;Skoda;Enyaq
+299700;Stockholm;Huddinge;El;Automat;7343;2022;SUV;Tvahjulsdriven;204;Gra;0;2022-01-10;Hyundai;Kona
+419700;Stockholm;Huddinge;El;Automat;4851;2021;SUV;Tvahjulsdriven;204;Bla;0;2021-03-02;Volkswagen;ID.4
+200000;Dalarna;Borlange;Diesel;Automat;15789;2014;Kombi;Fyrhjulsdriven;204;Svart;2967;2013-11-20;Audi;A6
+489900;Dalarna;Borlange;Diesel;Automat;899;2023;SUV;Fyrhjulsdriven;207;Svart;1968;2023-03-23;Audi;Q5
+489900;Dalarna;Borlange;Diesel;Automat;0;2024;Kombi;Fyrhjulsdriven;207;Silver;1968;NULL;Audi;A4
+189900;Dalarna;Borlange;Diesel;Automat;12900;2016;Kombi;Fyrhjulsdriven;150;Gra;1998;2016-09-14;Subaru;Outback
+109800;Dalarna;Borlange;Diesel;Manuell;18304;2015;Kombi;Tvahjulsdriven;112;Silver;1598;2015-12-15;Toyota;Auris
+319900;Dalarna;Borlange;Diesel;Automat;16000;2019;Sedan;Tvahjulsdriven;195;Vit;1950;2019-08-09;Mercedes_Benz;E
+459000;Dalarna;Borlange;Bensin;Automat;8900;2017;Sedan;Fyrhjulsdriven;449;Svart;4395;2017-07-07;BMW;750
+189700;Dalarna;Borlange;Diesel;Automat;16000;2016;Kombi;Fyrhjulsdriven;177;Gra;2143;2016-02-26;Mercedes_Benz;CLA
+369800;Dalarna;Borlange;Diesel;Automat;9000;2019;Kombi;Fyrhjulsdriven;191;Bla;1969;2018-06-27;Volvo;V90 Cross Country
+149800;Dalarna;Borlange;Diesel;Automat;21000;2014;SUV;Fyrhjulsdriven;211;Silver;2400;2014-02-28;Volvo;XC90
+149800;Dalarna;Borlange;Diesel;Automat;10400;2013;Halvkombi;Tvahjulsdriven;105;Rod;1598;2013-07-03;Volkswagen;Golf
+129800;Dalarna;Borlange;Diesel;Manuell;17500;2009;Coupe;Fyrhjulsdriven;170;Silver;1968;2009-06-26;Audi;TT
+319900;Dalarna;Borlange;Diesel;Automat;8670;2019;SUV;Fyrhjulsdriven;200;Gra;2199;2019-04-05;Kia;Sorento
+329900;Dalarna;Borlange;Miljobransle_Hyb;Automat;10710;2021;Kombi;Fyrhjulsdriven;169;Silver;2498;2021-11-04;Subaru;Outback
+459600;Dalarna;Borlange;Miljobransle_Hyb;Automat;450;2023;Kombi;Fyrhjulsdriven;160;Gron;2498;2023-12-05;Subaru;Outback
+164800;Dalarna;Borlange;Bensin;Automat;18000;2013;SUV;Fyrhjulsdriven;240;Brun;1998;2013-05-02;Subaru;Forester
+199000;Dalarna;Avesta;Miljobransle_Hyb;Automat;8000;2018;SUV;Tvahjulsdriven;105;Vit;1580;2017-12-01;Kia;Niro
+219500;Dalarna;Borlange;El;Automat;1831;2022;Halvkombi;Tvahjulsdriven;111;Rod;0;2022-04-07;Renault;Zoe
+214900;Dalarna;Leksand;Miljobransle_Hyb;Automat;5900;2018;SUV;Tvahjulsdriven;105;Gra;1580;2018-10-26;Kia;Niro
+195000;Dalarna;Leksand;Diesel;Automat;17000;2017;SUV;Fyrhjulsdriven;200;Vit;2199;2017-06-16;Hyundai;Sante Fe
+179900;Dalarna;Falun;Bensin;Manuell;6016;2008;Cab;Tvahjulsdriven;170;Gra;1995;2008-04-01;BMW;320
+219900;Dalarna;Borlange;Bensin;Automat;15500;2007;Cab;NULL;272;Silver;0;NULL;Mercedes_Benz;SL
+259000;Dalarna;Borlange;Diesel;Automat;11200;2020;Kombi;Tvahjulsdriven;191;Svart;1969;2020-06-23;Volvo;V60
+109900;Dalarna;Falun;Diesel;Automat;19747;2007;SUV;Fyrhjulsdriven;272;Svart;3628;2008-01-04;Land_Rover;Range Rover
+269900;Dalarna;Ludvika;Bensin;Automat;4270;2021;SUV;Tvahjulsdriven;151;Vit;1498;2021-03-26;Volkswagen;Tiguan
+269000;Dalarna;Borlange;Miljobransle_Hyb;Automat;4616;2021;Halvkombi;Tvahjulsdriven;142;Rod;1580;2021-03-31;Kia;Xceed
+299000;Dalarna;Borlange;Miljobransle_Hyb;Automat;1552;2021;Halvkombi;Tvahjulsdriven;142;Bla;1580;2021-11-30;Kia;Niro
+309000;Dalarna;Borlange;Diesel;Automat;15856;2021;Kombi;Fyrhjulsdriven;191;Bla;1995;2020-12-29;BMW;320
+150000;Dalarna;Falun;Bensin;Manuell;16430;1991;Sedan;Tvahjulsdriven;116;Rod;0;1992-01-14;Volvo;240
+295000;Dalarna;Borlange;Miljobransle_Hyb;Automat;4700;2022;Kombi;Tvahjulsdriven;188;Bla;1999;2021-12-07;Ford;Mondeo
+199900;Dalarna;Sater;Diesel;Automat;15400;2015;SUV;Fyrhjulsdriven;181;Silver;2400;2014-06-30;Volvo;XC60
+199900;Dalarna;Sater;Diesel;Automat;15499;2017;Kombi;Fyrhjulsdriven;191;Gra;1968;2017-06-08;Volkswagen;Passat
+109900;Dalarna;Sater;Diesel;Manuell;16600;2013;Kombi;Tvahjulsdriven;124;Brun;1998;2013-10-23;Toyota;Auris
+149900;Dalarna;Sater;Bensin;Manuell;1200;2019;Halvkombi;Tvahjulsdriven;96;Vit;999;2019-12-19;Skoda;Fabia
+498000;Dalarna;Avesta;El;Automat;174;2023;SUV;Tvahjulsdriven;NULL;Bla;0;2023-05-31;Kia;EV6
+119900;Dalarna;Borlange;Bensin;Automat;12431;2012;SUV;Fyrhjulsdriven;164;Bla;1998;2012-06-27;Hyundai;ix35
+169000;Dalarna;Falun;Bensin;Manuell;11900;2017;Kombi;Fyrhjulsdriven;151;Vit;1395;2016-10-14;Volkswagen;Passat
+199500;Dalarna;Avesta;Bensin;Manuell;4811;2020;Halvkombi;Tvahjulsdriven;151;Vit;1498;2020-09-08;Volkswagen;Golf
+439000;Dalarna;Malung-Salen;Diesel;Automat;7700;2022;SUV;Fyrhjulsdriven;200;Vit;1969;2022-03-01;Volvo;XC60
+259000;Dalarna;Borlange;Diesel;Automat;19924;2017;Kombi;Fyrhjulsdriven;259;Bla;2993;2017-03-02;BMW;330
+352200;Dalarna;Mora;Bensin;Automat;0;2024;SUV;Tvahjulsdriven;116;Bla;999;NULL;Volkswagen;T-Cross
+209000;Dalarna;Avesta;Bensin;Manuell;10;2023;Halvkombi;Tvahjulsdriven;112;Vit;999;2023-08-22;Skoda;Scala
+209000;Dalarna;Avesta;Bensin;Manuell;10;2023;Halvkombi;Tvahjulsdriven;112;Gra;999;2023-08-22;Skoda;Scala
+100000;Dalarna;Mora;Diesel;Automat;13044;2008;Kombi;Tvahjulsdriven;218;Svart;2987;2009-08-25;Chrysler;300c
+157000;Dalarna;Sater;Bensin;Manuell;9729;2019;SUV;Fyrhjulsdriven;112;Rod;998;2018-11-30;Suzuki;Vitara
+259000;Dalarna;Avesta;Bensin;Automat;12000;2020;SUV;Tvahjulsdriven;165;Silver;1477;2020-06-15;Volvo;XC40
+199000;Dalarna;Mora;Bensin;Manuell;3815;2021;SUV;Tvahjulsdriven;112;Gra;999;2021-02-26;Volkswagen;T-Roc
+249900;Dalarna;Borlange;Diesel;Automat;8960;2017;Kombi;Tvahjulsdriven;191;Bla;1969;2016-09-01;Volvo;V90
+149700;Dalarna;Borlange;Bensin;Manuell;7805;2017;Halvkombi;Tvahjulsdriven;96;Vit;999;2017-03-27;Audi;A1
+209800;Dalarna;Borlange;Bensin;Automat;13900;2017;Kombi;Fyrhjulsdriven;176;Silver;2498;2018-02-23;Subaru;Outback
+209800;Dalarna;Borlange;Diesel;Automat;22584;2013;SUV;Fyrhjulsdriven;200;Gra;2776;2013-03-28;Jeep;Wrangler
+238900;Dalarna;Borlange;Diesel;Automat;12770;2016;SUV;Fyrhjulsdriven;200;Gra;2199;2017-07-18;Kia;Sorento
+439800;Dalarna;Borlange;Miljobransle_Hyb;Automat;6800;2020;SUV;Fyrhjulsdriven;236;Gra;1969;2019-09-30;Volvo;XC60
+229800;Dalarna;Borlange;Diesel;Automat;9850;2017;SUV;Fyrhjulsdriven;177;Svart;1995;2017-09-08;Nissan;X-Trail
+254500;Dalarna;Ludvika;Diesel;Automat;12518;2018;SUV;Fyrhjulsdriven;192;Silver;2967;2018-03-07;Audi;A6
+389900;Dalarna;Ludvika;El;Automat;626;2023;Halvkombi;Tvahjulsdriven;207;Gron;0;2023-02-24;Volkswagen;ID.3
+189900;Dalarna;Borlange;Bensin;Automat;3908;2021;SUV;Tvahjulsdriven;116;Vit;999;2020-10-30;Volkswagen;T-Roc
+259900;Dalarna;Borlange;Diesel;Automat;6300;2020;Kombi;Fyrhjulsdriven;191;Vit;1968;2019-10-14;Volkswagen;Passat
+189900;Dalarna;Borlange;Bensin;Automat;8450;2016;Kombi;Tvahjulsdriven;147;Brun;1798;2016-02-05;Toyota;Verso
+229000;Dalarna;Borlange;Miljobransle_Hyb;Automat;5961;2021;Kombi;Tvahjulsdriven;142;Svart;1580;2021-03-15;Kia;Ceed
+355000;Dalarna;Borlange;Miljobransle_Hyb;Automat;9990;2021;Kombi;Fyrhjulsdriven;340;Bla;1969;2020-10-29;Volvo;V60
+299900;Dalarna;Borlange;Diesel;Automat;17900;2015;SUV;NULL;259;Svart;0;NULL;Porsche;Macan
+419000;Dalarna;Leksand;Bensin;Automat;2000;2024;SUV;Fyrhjulsdriven;200;Gra;1969;2023-09-15;Volvo;XC40
+119900;Dalarna;Falun;Diesel;Automat;16400;2013;Kombi;Tvahjulsdriven;150;Bla;2191;2013-05-15;Mazda;6
+274900;Dalarna;Avesta;Miljobransle_Hyb;Automat;5400;2020;Kombi;Tvahjulsdriven;154;Vit;1999;2020-12-16;Kia;Optima
+249000;Dalarna;Avesta;Miljobransle_Hyb;Automat;6337;2020;Halvkombi;Tvahjulsdriven;105;Bla;1580;2020-09-04;Kia;Xceed
+139900;Dalarna;Avesta;Bensin;Automat;4100;2021;Halvkombi;Tvahjulsdriven;67;Vit;998;2021-11-05;Kia;Picanto
+229900;Dalarna;Avesta;Miljobransle_Hyb;Automat;3025;2021;Kombi;Tvahjulsdriven;105;Svart;1580;2021-03-31;Kia;Ceed
+289900;Dalarna;Ludvika;El;Automat;5456;2021;Halvkombi;Tvahjulsdriven;207;Silver;0;2020-12-28;Volkswagen;ID.3
+179000;Dalarna;Avesta;Bensin;Manuell;6215;2019;Kombi;Tvahjulsdriven;141;Gra;1353;2019-05-16;Kia;Ceed
+369500;Dalarna;Borlange;El;Automat;11000;2021;Halvkombi;Fyrhjulsdriven;414;Bla;0;2020-08-21;Polestar;2
+314000;Dalarna;Falun;Miljobransle_Hyb;Automat;1058;2023;Halvkombi;Tvahjulsdriven;105;Gra;1580;2022-09-26;Kia;Xceed
+349000;Dalarna;Falun;Miljobransle_Hyb;Automat;869;2023;Kombi;Tvahjulsdriven;105;Svart;1580;2023-02-22;Kia;Ceed
+309000;Dalarna;Falun;Miljobransle_Hyb;Automat;1675;2023;Halvkombi;Tvahjulsdriven;105;Gra;1580;2023-02-23;Kia;Xceed
+344000;Dalarna;Falun;Miljobransle_Hyb;Automat;1465;2023;Kombi;Tvahjulsdriven;105;Gra;1580;2023-02-09;Kia;Ceed
+224900;Dalarna;Borlange;Bensin;Manuell;165;2023;Halvkombi;Tvahjulsdriven;112;Vit;999;2023-11-24;Skoda;Scala
+129900;Dalarna;Borlange;Diesel;Automat;18660;2012;Kombi;Fyrhjulsdriven;184;Vit;1995;2012-09-04;Kia;Sportage
+229800;Dalarna;Borlange;Diesel;Automat;15200;2017;SUV;Tvahjulsdriven;181;NULL;1997;2018-02-13;Peugeot;5008
+456400;Dalarna;Falun;Miljobransle_Hyb;Automat;1;2024;SUV;Tvahjulsdriven;105;Rod;1580;NULL;Kia;Niro
+369000;Dalarna;Falun;Miljobransle_Hyb;Automat;900;2023;Halvkombi;Tvahjulsdriven;142;Rod;1580;2023-08-09;Kia;Xceed
+159000;Dalarna;Falun;Diesel;Automat;16000;2014;SUV;Fyrhjulsdriven;150;Brun;2231;2014-03-05;Toyota;RAV4
+245000;Dalarna;Borlange;Diesel;Automat;11709;2018;Kombi;Fyrhjulsdriven;150;Svart;1969;2018-03-07;Volvo;V90
+249000;Dalarna;Ludvika;El;Automat;7539;2021;Halvkombi;Tvahjulsdriven;204;Gra;0;2020-12-09;Volkswagen;ID.3
+470900;Dalarna;Ludvika;Miljobransle_Hyb;Automat;0;2024;SUV;Tvahjulsdriven;203;Bla;1199;NULL;Renault;Espace 
+100000;Dalarna;Borlange;Bensin;Manuell;8883;2017;Halvkombi;Tvahjulsdriven;90;Rod;1197;2016-12-02;Volkswagen;Polo
+139000;Dalarna;Falun;Diesel;Manuell;13800;2016;SUV;Tvahjulsdriven;116;Gra;1685;2016-03-03;Kia;Sportage
+169000;Dalarna;Falun;Diesel;Automat;16013;2016;Kombi;Fyrhjulsdriven;191;Brun;2400;2015-12-23;Volvo;V60 Cross Country
+319000;Dalarna;Ludvika;Miljobransle_Hyb;Automat;1039;2023;Kombi;Tvahjulsdriven;105;Rod;1580;2022-10-31;Kia;Ceed
+289000;Dalarna;Ludvika;El;Automat;6001;2021;SUV;Tvahjulsdriven;204;Gra;0;2021-06-08;Kia;E-Niro
+244500;Dalarna;Ludvika;Diesel;Automat;13495;2018;SUV;Fyrhjulsdriven;192;Vit;1968;2018-06-19;Volkswagen;Tiguan
+369500;Dalarna;Ludvika;El;Automat;2716;2022;SUV;Tvahjulsdriven;183;Bla;0;2021-08-30;Skoda;Enyaq iV
+300000;Dalarna;Borlange;Diesel;Automat;12284;2019;Kombi;Fyrhjulsdriven;236;Gra;1969;2018-10-16;Volvo;V90 Cross Country
+195000;Dalarna;Borlange;Diesel;Automat;13666;2015;Kombi;Fyrhjulsdriven;181;Svart;2400;2014-07-31;Volvo;V60
+439000;Dalarna;Avesta;Diesel;Automat;1944;2022;SUV;Fyrhjulsdriven;200;Svart;1968;2022-04-06;Skoda;Kodiaq
+159900;Dalarna;Smedjebacken;Diesel;Automat;16600;2013;SUV;Fyrhjulsdriven;164;Vit;2400;2013-03-19;Volvo;XC60
+289900;Dalarna;Borlange;El;Automat;5718;2021;Halvkombi;Tvahjulsdriven;207;Gra;0;2021-12-23;Volkswagen;ID.3
+349000;Dalarna;Borlange;Miljobransle_Hyb;Automat;3259;2021;Kombi;Tvahjulsdriven;221;Vit;1395;2021-07-07;Volkswagen;Passat
+175000;Dalarna;Avesta;Diesel;Automat;23900;2014;Kombi;Fyrhjulsdriven;204;Vit;2967;2014-08-05;Audi;A6
+119000;Dalarna;Falun;Bensin;Manuell;3518;2021;Halvkombi;Tvahjulsdriven;67;Orange;998;2021-03-19;Kia;Picanto
+299500;Dalarna;Borlange;Miljobransle_Hyb;Automat;5661;2020;SUV;Tvahjulsdriven;228;Vit;2488;2021-03-29;Ford;Kuga
+289000;Dalarna;Avesta;El;Automat;5606;2021;Halvkombi;Tvahjulsdriven;207;Svart;0;2020-12-23;Volkswagen;ID.3
+313700;Dalarna;Borlange;Bensin;Automat;0;2024;SUV;Tvahjulsdriven;112;Vit;999;NULL;Volkswagen;Taigo
+159900;Dalarna;Borlange;Diesel;Automat;22000;2013;Kombi;NULL;245;Svart;0;NULL;Audi;A4
+319900;Dalarna;Mora;Bensin;Automat;3405;2020;SUV;Tvahjulsdriven;151;Silver;1498;2021-06-30;Volkswagen;T-Roc
+496000;Dalarna;Mora;Bensin;Automat;0;2024;Kombi;Tvahjulsdriven;151;Rod;1498;NULL;Volkswagen;Passat
+200000;Dalarna;Ludvika;Diesel;Automat;11401;2017;Kombi;Tvahjulsdriven;150;Vit;1968;2016-04-25;Audi;A4
+429900;Dalarna;Borlange;Miljobransle_Hyb;Automat;15100;2017;SUV;Fyrhjulsdriven;407;Svart;1969;2016-06-01;Volvo;XC90
+135000;Dalarna;Borlange;Bensin;Automat;12094;2014;Halvkombi;Tvahjulsdriven;123;Vit;1390;2014-08-21;Audi;A1
+299000;Dalarna;Falun;Diesel;Automat;13085;2019;Kombi;Fyrhjulsdriven;240;Silver;1968;2019-05-08;Volkswagen;Passat
+178900;Dalarna;Borlange;Diesel;Automat;17500;2013;Kombi;Fyrhjulsdriven;164;Svart;2400;2013-02-28;Volvo;XC70
+144900;Dalarna;Borlange;Diesel;Automat;15598;2012;Sedan;Fyrhjulsdriven;215;Svart;2400;2012-02-13;Volvo;S60
+299800;Dalarna;Borlange;Diesel;Automat;6400;2017;SUV;Fyrhjulsdriven;191;Vit;1968;2017-06-30;Audi;Q5
+229800;Dalarna;Borlange;Bensin;Automat;8600;2019;SUV;Tvahjulsdriven;160;Gra;1332;2019-08-29;Nissan;X-Trail
+139900;Dalarna;Falun;Bensin;Manuell;11380;2014;Halvkombi;Tvahjulsdriven;123;Silver;1395;2013-12-13;Audi;A3
+229000;Dalarna;Falun;Diesel;Automat;13965;2017;SUV;Fyrhjulsdriven;191;Gra;2400;2016-09-27;Volvo;XC60
+479900;Dalarna;Ludvika;Diesel;Automat;526;2023;Kombi;Fyrhjulsdriven;203;Vit;1968;2023-09-29;Skoda;Superb
+135900;Dalarna;Smedjebacken;Diesel;Automat;20850;2012;Kombi;Tvahjulsdriven;170;Svart;2143;2011-11-30;Mercedes_Benz;E
+449900;Dalarna;Borlange;Miljobransle_Hyb;Automat;490;2023;Halvkombi;Tvahjulsdriven;207;Bla;1395;2023-09-07;Audi;A3
+299500;Dalarna;Borlange;Bensin;Automat;4841;2021;SUV;Tvahjulsdriven;131;Svart;1477;2020-11-27;Volvo;XC40
+139000;Dalarna;Avesta;Bensin;Manuell;15000;2015;SUV;Fyrhjulsdriven;162;Svart;1390;2015-02-13;Volkswagen;Tiguan
+459000;Dalarna;Ludvika;El;Automat;0;2023;SUV;Tvahjulsdriven;204;Rod;0;2023-12-18;Kia;E-SOUL
+419000;Dalarna;Avesta;Diesel;Automat;3425;2020;Kombi;Tvahjulsdriven;195;Gra;1950;2020-06-25;Mercedes_Benz;E
+329900;Dalarna;Avesta;Bensin;Automat;1;2024;SUV;Tvahjulsdriven;120;Rod;998;NULL;Hyundai;Kona
+319500;Dalarna;Avesta;Miljobransle_Hyb;Automat;4560;2021;SUV;Tvahjulsdriven;180;Bla;1598;2021-03-24;Hyundai;Tucson
+199900;Dalarna;Falun;Bensin;Manuell;4100;2020;SUV;Tvahjulsdriven;116;Vit;999;2019-12-10;Volkswagen;T-Roc
+299990;Dalarna;Avesta;Bensin;Automat;1;2024;Halvkombi;Tvahjulsdriven;131;Vit;1199;NULL;Citroen;C4
+219900;Dalarna;Falun;Bensin;Automat;2550;2020;SUV;Tvahjulsdriven;141;Silver;1332;2020-06-01;Renault;Kadjar
+389000;Dalarna;Avesta;Bensin;Automat;650;2024;Kombi;Tvahjulsdriven;151;Vit;1498;2023-10-31;Volkswagen;Golf
+269900;Dalarna;Falun;Diesel;Automat;12725;2020;Kombi;Tvahjulsdriven;191;Svart;1969;2019-07-09;Volvo;V90
+259900;Dalarna;Falun;Bensin;Manuell;1565;2023;Halvkombi;Tvahjulsdriven;151;Svart;1498;2022-11-30;Audi;A3
+290000;Dalarna;Falun;El;Automat;4200;2021;Halvkombi;Tvahjulsdriven;207;Vit;0;2020-12-28;Volkswagen;ID.3
+229000;Dalarna;Avesta;Miljobransle_Hyb;Automat;6500;2021;Kombi;Tvahjulsdriven;105;Vit;1580;2021-05-07;Kia;Ceed
+249500;Dalarna;Falun;Diesel;Automat;12769;2020;Kombi;Tvahjulsdriven;151;Silver;1969;2019-10-01;Volvo;V60
+459000;Dalarna;Avesta;Miljobransle_Hyb;Automat;1200;2023;SUV;Fyrhjulsdriven;180;Vit;1598;2023-10-19;Kia;Sportage
+419000;Dalarna;Leksand;Diesel;Automat;5970;2021;Kombi;Tvahjulsdriven;192;Brun;1969;2021-12-29;Volvo;V90
+225000;Dalarna;Gagnef;Diesel;Automat;17758;2021;Kombi;Fyrhjulsdriven;200;Vit;1968;2020-12-16;Volkswagen;Passat
+429900;Dalarna;Borlange;Miljobransle_Hyb;Automat;3664;2022;SUV;Tvahjulsdriven;266;Gra;1477;2021-11-26;Volvo;XC40
+289500;Dalarna;Borlange;Diesel;Automat;10639;2020;Kombi;Fyrhjulsdriven;192;Vit;1969;2019-10-09;Volvo;V60 Cross Country
+199000;Dalarna;Mora;Diesel;Automat;18000;2017;Kombi;Fyrhjulsdriven;183;Gra;1997;2017-06-27;Ford;Galaxy
+165000;Dalarna;Sater;Miljobransle_Hyb;Automat;17600;2015;Kombi;Fyrhjulsdriven;283;Vit;2400;2014-06-11;Volvo;V60
+169900;Dalarna;Avesta;Diesel;Manuell;13898;2016;Sedan;Fyrhjulsdriven;151;Vit;1968;2016-03-24;Audi;A3
+138000;Dalarna;Falun;Diesel;Automat;23343;2012;Kombi;Fyrhjulsdriven;259;Bla;2993;2011-09-07;BMW;530
+229900;Dalarna;Ludvika;Diesel;Automat;11794;2018;SUV;Fyrhjulsdriven;151;Gra;1968;2017-12-12;Skoda;Karoq
+319600;Dalarna;Ludvika;Bensin;Automat;9620;2018;Halvkombi;Tvahjulsdriven;262;Vit;1998;2019-05-21;BMW;630
+408000;Dalarna;Avesta;El;Automat;377;2023;SUV;Tvahjulsdriven;204;Vit;0;2023-05-31;Kia;Niro
+299000;Dalarna;Avesta;Miljobransle_Hyb;Automat;993;2023;Kombi;Tvahjulsdriven;105;Gra;1580;2023-02-20;Kia;Ceed
+280000;Dalarna;Falun;El;Automat;15000;2019;Sedan;Fyrhjulsdriven;441;Svart;0;2019-03-05;Tesla;Model 3
+299000;Dalarna;Falun;Bensin;Automat;500;2023;SUV;Tvahjulsdriven;151;Bla;1498;2023-08-31;Volkswagen;Taigo
+109900;Dalarna;Sater;Bensin;Manuell;22900;2011;SUV;Fyrhjulsdriven;158;Silver;1987;2011-05-17;Toyota;RAV4
+144900;Dalarna;Sater;Bensin;Manuell;3200;2020;Kombi;Tvahjulsdriven;96;Silver;999;2020-01-31;Skoda;Fabia
+299000;Dalarna;Avesta;Miljobransle_Hyb;Automat;921;2023;Kombi;Tvahjulsdriven;105;Gron;1580;2023-02-27;Kia;Ceed
+279000;Dalarna;Avesta;Miljobransle_Hyb;Automat;1434;2022;Kombi;Tvahjulsdriven;105;Gra;1580;2022-09-27;Kia;Ceed
+299000;Dalarna;Avesta;Miljobransle_Hyb;Automat;1704;2023;Kombi;Tvahjulsdriven;105;Vit;1580;2023-02-20;Kia;Ceed
+460000;Dalarna;Avesta;El;Automat;0;2024;Halvkombi;Tvahjulsdriven;207;Svart;0;NULL;Volkswagen;ID.3
+124900;Dalarna;Borlange;Diesel;Automat;20816;2015;Kombi;Fyrhjulsdriven;170;Silver;1968;2014-10-07;Skoda;Superb
+234900;Dalarna;Borlange;Diesel;Automat;10400;2018;Kombi;Fyrhjulsdriven;191;Vit;1969;2018-02-14;Volkswagen;Passat
+169800;Dalarna;Borlange;Diesel;Automat;17667;2015;Sedan;Fyrhjulsdriven;259;Svart;1993;2014-11-14;BMW;530
+199000;Dalarna;Ludvika;El;Automat;5267;2020;Halvkombi;Tvahjulsdriven;136;Gra;0;2020-01-29;Volkswagen;E-Golf
+289900;Dalarna;Borlange;Miljobransle_Hyb;Automat;3229;2021;SUV;Tvahjulsdriven;187;Vit;1987;2021-04-30;Toyota;C-HR
+184900;Dalarna;Rattvik;El;Automat;8830;2018;Halvkombi;Tvahjulsdriven;136;Gra;0;2017-12-13;Volkswagen;Golf
+369500;Dalarna;Borlange;Bensin;Automat;2808;2023;Kombi;Tvahjulsdriven;200;Rod;1969;2022-11-17;Volvo;V60
+127800;Dalarna;Borlange;Bensin;Manuell;7000;2018;Halvkombi;Tvahjulsdriven;96;Vit;999;2017-11-20;Volkswagen;Polo
+179800;Dalarna;Borlange;Diesel;Manuell;8000;2017;Halvkombi;Fyrhjulsdriven;150;Vit;1995;2017-06-05;BMW;118
+129900;Dalarna;Borlange;Bensin;Manuell;8650;2018;Halvkombi;Tvahjulsdriven;96;Vit;999;2018-06-29;Volkswagen;Polo
+228900;Dalarna;Gagnef;Miljobransle_Hyb;Automat;14457;2019;SUV;Fyrhjulsdriven;225;Silver;2360;2019-04-29;Mitsubishi;Outlander
+179900;Dalarna;Falun;Diesel;Automat;18356;2016;Kombi;Tvahjulsdriven;181;Svart;1969;2016-06-28;Volvo;V70
+195000;Dalarna;Falun;Bensin;Automat;6105;1997;Sedan;Tvahjulsdriven;135;Vit;0;1996-08-30;Volvo;940
+199900;Dalarna;Falun;Diesel;Automat;14827;2018;Kombi;Tvahjulsdriven;150;Svart;1950;2017-09-28;Mercedes_Benz;E
+271600;Dalarna;Ludvika;Bensin;Automat;0;2024;Halvkombi;Tvahjulsdriven;120;Bla;998;NULL;Kia;Stonic
+249500;Dalarna;Avesta;Miljobransle_Hyb;Automat;14459;2020;Kombi;Tvahjulsdriven;157;Brun;1395;2020-08-14;Volkswagen;Passat
+269500;Dalarna;Avesta;Bensin;Automat;391;2023;Halvkombi;Tvahjulsdriven;131;Vit;1199;2023-08-31;Citroen;C4
+379500;Dalarna;Borlange;Miljobransle_Hyb;Automat;7887;2021;SUV;Tvahjulsdriven;266;Gra;1477;2021-02-08;Volvo;XC40
+229000;Dalarna;Sater;Diesel;Automat;18375;2016;Kombi;Fyrhjulsdriven;221;Brun;2400;2016-01-19;Volvo;XC70
+290000;Dalarna;Ludvika;Diesel;Automat;14760;2020;SUV;Fyrhjulsdriven;198;Gra;1969;2019-07-08;Volvo;XC60
+306200;Dalarna;Ludvika;Bensin;Automat;0;2024;SUV;Tvahjulsdriven;116;Bla;999;NULL;Volkswagen;T-Cross
+299000;Dalarna;Falun;Miljobransle_Hyb;Automat;1224;2023;Kombi;Tvahjulsdriven;105;Bla;1580;2022-10-24;Kia;Ceed
+314000;Dalarna;Falun;El;Automat;3850;2020;SUV;Tvahjulsdriven;204;Gra;0;2021-03-26;Kia;E-Niro
+199000;Dalarna;Falun;Diesel;Manuell;12450;2020;Halvkombi;Tvahjulsdriven;191;Gra;1995;2019-10-25;Ford;Focus
+199900;Dalarna;Smedjebacken;Diesel;Automat;18325;2016;Kombi;Fyrhjulsdriven;191;Bla;1968;2016-07-29;Audi;A6
+219900;Dalarna;Avesta;Diesel;Manuell;10276;2016;Kombi;Tvahjulsdriven;151;Brun;1968;2015-12-01;Volkswagen;Sharan
+496000;Dalarna;Avesta;Bensin;Automat;0;2024;Kombi;Tvahjulsdriven;151;Rod;1498;NULL;Volkswagen;Passat
+163000;Dalarna;Vansbro;Diesel;Manuell;9500;2016;Kombi;Tvahjulsdriven;150;Silver;1969;2015-11-30;Volvo;V70
+159900;Dalarna;Falun;Bensin;Manuell;7648;2019;Kombi;Tvahjulsdriven;126;Rod;999;2018-08-20;Ford;Focus
+119000;Dalarna;Borlange;Diesel;Automat;27638;2015;Kombi;Tvahjulsdriven;181;Svart;1969;2015-01-30;Volvo;V70
+249900;Dalarna;Falun;Bensin;Automat;5150;2020;Halvkombi;Tvahjulsdriven;151;Svart;1498;2020-09-30;Volkswagen;Golf
+359000;Dalarna;Falun;Diesel;Automat;10300;2021;Kombi;Fyrhjulsdriven;207;Svart;1968;2022-03-01;Audi;A6
+239000;Dalarna;Avesta;Miljobransle_Hyb;Automat;2235;2022;SUV;Tvahjulsdriven;93;Bla;1598;2022-03-24;Renault;Captur
+299000;Dalarna;Rattvik;Bensin;Automat;5760;1972;Cab;Tvahjulsdriven;142;Bla;0;2004-06-09;Ford;Mustang
+429800;Dalarna;Borlange;Diesel;Automat;6600;2021;SUV;Fyrhjulsdriven;198;Svart;1969;2021-01-15;Volvo;XC60
+469900;Dalarna;Borlange;Diesel;Automat;1300;2023;Kombi;Fyrhjulsdriven;204;Bla;1968;2023-03-10;Audi;A4
+234900;Dalarna;Avesta;Bensin;Automat;3100;2021;SUV;Tvahjulsdriven;160;Brun;1332;2021-04-01;Nissan;Qashqai
+199900;Dalarna;Ludvika;Bensin;Manuell;4142;2021;Halvkombi;Tvahjulsdriven;112;Gra;999;2021-03-08;Skoda;Scala
+439900;Dalarna;Ludvika;El;Automat;5347;2021;SUV;Tvahjulsdriven;207;Silver;0;2021-07-05;Skoda;Enyaq iV
+299900;Dalarna;Ludvika;Bensin;Automat;780;2024;SUV;Tvahjulsdriven;112;Vit;999;2023-09-29;Volkswagen;Taigo
+109900;Dalarna;Sater;Bensin;Manuell;12500;2011;Cab;Tvahjulsdriven;105;Rod;1197;2012-01-16;Audi;A3
+486300;Dalarna;Borlange;Miljobransle_Hyb;Automat;0;2024;Halvkombi;Tvahjulsdriven;248;Vit;1395;NULL;Audi;A3
+379900;Dalarna;Borlange;Bensin;Automat;2299;2022;Kombi;Fyrhjulsdriven;268;Bla;1984;2022-03-15;Audi;A4
+259500;Dalarna;Falun;Diesel;Automat;13170;2016;SUV;Fyrhjulsdriven;184;Brun;2400;2016-02-12;Volvo;XC70
+129900;Dalarna;Borlange;Diesel;Automat;25108;2015;SUV;Fyrhjulsdriven;147;Vit;1998;2015-04-22;Subaru;Forester
+419500;Dalarna;Falun;Miljobransle_Hyb;Automat;5561;2022;Kombi;Fyrhjulsdriven;404;Svart;1969;2022-02-21;Volvo;V60
+199800;Ostergotland;Linkoping;Diesel;Automat;8883;2014;Kombi;Fyrhjulsdriven;170;Gra;2143;2014-01-31;Mercedes_Benz;C
+189800;Ostergotland;Linkoping;Bensin;Manuell;4521;2020;Halvkombi;Tvahjulsdriven;141;Gra;1353;2020-12-17;Hyundai;i30
+154900;Ostergotland;Norrkoping;Bensin;Automat;15500;2008;Coupe;Fyrhjulsdriven;306;Gra;2979;2008-02-08;BMW;335
+105000;Ostergotland;Finspang;Diesel;Automat;28230;2014;Kombi;Tvahjulsdriven;181;Silver;1969;2014-03-24;Volvo;V70
+119800;Ostergotland;Norrkoping;Bensin;Manuell;18000;2016;Halvkombi;Tvahjulsdriven;123;Svart;1969;2015-10-02;Volvo;V40
+195000;Ostergotland;Norrkoping;Bensin;Manuell;13878;2015;Coupe;Fyrhjulsdriven;245;Gra;1997;2014-10-31;BMW;428
+174800;Ostergotland;Linkoping;Diesel;Automat;13311;2015;SUV;Fyrhjulsdriven;150;Vit;1968;2015-06-09;Audi;Q3
+268900;Ostergotland;Linkoping;Bensin;Automat;13086;2017;SUV;Fyrhjulsdriven;180;Gra;1984;2017-04-21;Skoda;Kodiaq
+228900;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;2582;2020;Kombi;Tvahjulsdriven;142;Vit;1580;2020-12-17;Kia;Ceed
+288900;Ostergotland;Linkoping;Diesel;Automat;16456;2015;SUV;Fyrhjulsdriven;259;Vit;2993;2015-02-13;BMW;X5
+259800;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;5592;2020;SUV;Tvahjulsdriven;184;Vit;1987;2020-06-02;Toyota;C-HR
+218900;Ostergotland;Linkoping;Diesel;Automat;17145;2016;Kombi;Fyrhjulsdriven;218;Vit;2967;2016-04-08;Audi;A6
+148900;Ostergotland;Linkoping;Bensin;Manuell;1540;2019;Halvkombi;Tvahjulsdriven;96;Bla;999;2019-03-22;Skoda;Fabia
+294900;Ostergotland;Linkoping;Bensin;Automat;5986;2020;Sedan;Tvahjulsdriven;191;Gra;1969;2020-02-03;Volvo;S60
+369800;Ostergotland;Linkoping;Diesel;Automat;10714;2014;SUV;Fyrhjulsdriven;293;Svart;2993;2014-02-19;Land_Rover;Range Rover Sport
+139700;Ostergotland;Linkoping;Diesel;Automat;11265;2018;SUV;Tvahjulsdriven;109;Gra;1461;2018-06-25;Dacia;Duster
+328800;Ostergotland;Linkoping;Diesel;Automat;4676;2022;Kombi;Fyrhjulsdriven;150;Gron;1968;2022-05-31;Cupra;Formentor
+238900;Ostergotland;Linkoping;Diesel;Automat;10291;2014;Kombi;Fyrhjulsdriven;259;Svart;2993;2014-05-16;BMW;530
+125000;Ostergotland;Mjolby;Miljobransle_Hyb;Automat;15633;2013;Kombi;Tvahjulsdriven;161;Silver;1390;2013-06-24;Volkswagen;Passat
+159800;Ostergotland;Linkoping;Bensin;Automat;3748;2019;Halvkombi;Tvahjulsdriven;101;Bla;998;2020-02-21;Ford;Fiesta
+254800;Ostergotland;Linkoping;Diesel;Automat;5635;2020;Kombi;Fyrhjulsdriven;184;Svart;1968;2020-09-30;Volkswagen;Golf
+229800;Ostergotland;Linkoping;Diesel;Automat;11641;2017;Kombi;Fyrhjulsdriven;191;Bla;1968;2016-11-25;Skoda;Superb
+379900;Ostergotland;Linkoping;Diesel;Automat;10747;2016;SUV;Fyrhjulsdriven;313;Brun;2993;2015-10-07;BMW;X6
+214800;Ostergotland;Linkoping;Bensin;Automat;7751;2015;Halvkombi;Tvahjulsdriven;184;Brun;1997;2015-06-10;BMW;420
+499000;Ostergotland;Norrkoping;El;Automat;750;2022;SUV;Tvahjulsdriven;204;Bla;0;2022-10-10;Volkswagen;ID.4
+214800;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;9917;2018;Kombi;Tvahjulsdriven;206;Gra;1999;2018-11-21;Kia;Optima
+239800;Ostergotland;Linkoping;Bensin;Automat;10460;2019;Kombi;Fyrhjulsdriven;184;Vit;1998;2019-05-10;BMW;320
+234900;Ostergotland;Norrkoping;Diesel;Automat;9260;2014;SUV;Tvahjulsdriven;164;Brun;1984;2014-02-28;Volvo;XC60
+319800;Ostergotland;Linkoping;Diesel;Automat;18645;2017;SUV;Fyrhjulsdriven;236;Gra;1969;2017-04-03;Volvo;XC90
+259000;Ostergotland;Norrkoping;Bensin;Automat;6541;2009;Cab;Tvahjulsdriven;306;Svart;2979;2014-07-01;BMW;Z4
+338900;Ostergotland;Linkoping;Bensin;Automat;6431;2018;Halvkombi;Fyrhjulsdriven;252;Svart;1984;2017-10-23;Audi;A7
+308900;Ostergotland;Linkoping;Bensin;Automat;5177;2020;Kombi;Tvahjulsdriven;164;Rod;1332;2020-06-03;Mercedes_Benz;CLA
+398900;Ostergotland;Linkoping;Bensin;Automat;1315;2023;Halvkombi;Fyrhjulsdriven;266;Svart;1984;2022-12-21;Audi;A5
+179800;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;13217;2015;SUV;Fyrhjulsdriven;203;Svart;1998;2015-04-29;Mitsubishi;Outlander
+298700;Ostergotland;Linkoping;Diesel;Automat;10367;2019;SUV;Fyrhjulsdriven;191;Svart;1969;2019-04-05;Volvo;XC60
+268900;Ostergotland;Linkoping;Diesel;Automat;6566;2017;SUV;Fyrhjulsdriven;191;Vit;2400;2017-06-15;Volvo;XC60
+199800;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;13276;2017;Kombi;Tvahjulsdriven;218;Silver;1395;2017-03-27;Volkswagen;Passat
+258800;Ostergotland;Linkoping;Diesel;Automat;14460;2017;SUV;Fyrhjulsdriven;191;Svart;1968;2017-02-02;Audi;Q5
+389900;Ostergotland;Linkoping;Bensin;Automat;7242;2008;Cab;Tvahjulsdriven;296;Svart;0;2010-04-09;Porsche;Boxster
+238500;Ostergotland;Linkoping;Bensin;Automat;3529;2023;Kombi;Tvahjulsdriven;111;Silver;999;2022-10-20;Seat;Leon
+313900;Ostergotland;Linkoping;Bensin;Automat;7089;2019;Halvkombi;Fyrhjulsdriven;245;Svart;1984;2019-08-08;Audi;A5
+199800;Ostergotland;Linkoping;Bensin;Manuell;3965;2020;Halvkombi;Tvahjulsdriven;150;Vit;1498;2020-01-10;Audi;A3
+389000;Ostergotland;Norrkoping;Miljobransle_Hyb;Automat;5144;2022;SUV;Fyrhjulsdriven;222;Silver;2487;2022-08-22;Toyota;RAV4
+389000;Ostergotland;Norrkoping;Bensin;Automat;1182;2022;SUV;Tvahjulsdriven;191;Bla;1497;2022-10-04;Nissan;Qashq
+164900;Ostergotland;Norrkoping;Diesel;Automat;11830;2014;Sedan;Tvahjulsdriven;143;Brun;1995;2014-05-08;BMW;318
+154800;Ostergotland;Linkoping;Diesel;Manuell;10865;2016;Halvkombi;Tvahjulsdriven;109;Svart;1461;2016-09-29;Mercedes_Benz;B
+339800;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;3459;2021;SUV;Fyrhjulsdriven;215;Silver;1993;2022-02-09;Honda;CR-V
+154800;Ostergotland;Linkoping;Bensin;Automat;10983;2013;Kombi;Fyrhjulsdriven;150;Rod;1995;2013-07-10;Subaru;XV
+298900;Ostergotland;Linkoping;Diesel;Automat;7911;2018;Halvkombi;Fyrhjulsdriven;241;Bla;1968;2018-02-13;Volkswagen;Arteon
+339800;Ostergotland;Linkoping;Diesel;Automat;12769;2019;SUV;Fyrhjulsdriven;191;Vit;1968;2018-12-11;Skoda;Kodiaq
+229900;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;3500;2021;Kombi;Tvahjulsdriven;105;Gra;1580;2021-07-07;Kia;Ceed
+149000;Ostergotland;Linkoping;Bensin;Manuell;1000;2022;Halvkombi;Tvahjulsdriven;67;Svart;998;2021-10-28;Kia;Picanto
+119000;Ostergotland;Linkoping;Diesel;Manuell;17493;2014;Kombi;Fyrhjulsdriven;150;Bla;1968;2014-05-23;Volkswagen;Golf
+238900;Ostergotland;Linkoping;Bensin;Automat;6486;2019;SUV;Fyrhjulsdriven;170;Vit;1368;2020-05-28;Jeep;Compass
+214800;Ostergotland;Linkoping;Diesel;Automat;11439;2017;Kombi;Fyrhjulsdriven;191;Gra;1995;2016-12-22;BMW;520
+188900;Ostergotland;Linkoping;Diesel;Automat;9163;2015;SUV;Tvahjulsdriven;131;Svart;1598;2015-05-29;Nissan;X-Trail
+199800;Ostergotland;Linkoping;Diesel;Automat;8162;2017;Sedan;Tvahjulsdriven;180;Gra;2143;2018-05-25;Alfa Romeo;Giulia
+218800;Ostergotland;Linkoping;Diesel;Automat;17198;2017;Sedan;Fyrhjulsdriven;191;Bla;1968;2017-08-22;Audi;A4
+149800;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;13178;2014;Halvkombi;Tvahjulsdriven;170;Vit;647;2014-08-15;BMW;i3
+299800;Ostergotland;Linkoping;Diesel;Automat;13862;2019;SUV;Fyrhjulsdriven;191;Vit;1968;2019-06-11;Volkswagen;Tiguan
+119800;Ostergotland;Norrkoping;Diesel;Automat;14700;2014;Kombi;Tvahjulsdriven;141;Gra;1997;2014-01-29;Ford;Mondeo
+224900;Ostergotland;Norrkoping;Diesel;Automat;12600;2018;Kombi;Fyrhjulsdriven;150;Vit;1969;2017-12-04;Volvo;V90
+124600;Ostergotland;Norrkoping;Bensin;Automat;12900;2016;SUV;Tvahjulsdriven;119;NULL;1197;2015-11-06;Renault;Captur
+389000;Ostergotland;Norrkoping;Diesel;Automat;8100;2017;SUV;Fyrhjulsdriven;170;Svart;2143;2017-03-15;Mercedes_Benz;GLC
+309000;Ostergotland;Norrkoping;Diesel;Automat;7100;2017;Sedan;Tvahjulsdriven;195;Silver;1950;2016-07-15;Mercedes_Benz;E
+245000;Ostergotland;Norrkoping;Diesel;Automat;13600;2017;Halvkombi;Tvahjulsdriven;191;Svart;1995;2017-03-17;BMW;420
+169000;Ostergotland;Norrkoping;Diesel;Manuell;17800;2014;SUV;Fyrhjulsdriven;181;Bla;2400;2013-12-02;Volvo;XC60
+244900;Ostergotland;Norrkoping;Bensin;Automat;14967;2018;Kombi;Tvahjulsdriven;255;Silver;1969;2017-12-28;Volvo;V90
+384800;Ostergotland;Linkoping;Bensin;Automat;6998;2018;SUV;Fyrhjulsdriven;251;Vit;1969;2018-12-28;Volvo;XC90
+129800;Ostergotland;Linkoping;Diesel;Automat;15195;2013;Kombi;Tvahjulsdriven;215;Svart;2400;2012-12-27;Volvo;V60
+379800;Ostergotland;Linkoping;Diesel;Automat;13821;2017;SUV;Fyrhjulsdriven;191;Vit;1969;2016-12-13;Volvo;XC90
+398800;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;12676;2018;SUV;Fyrhjulsdriven;408;Silver;1969;2018-02-28;Volvo;XC60
+308900;Ostergotland;Linkoping;Bensin;Automat;7291;2019;Halvkombi;Fyrhjulsdriven;245;Gra;1984;2019-09-13;Audi;A5
+239800;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;878;2023;Halvkombi;Tvahjulsdriven;116;Vit;1490;2023-06-20;Toyota;Yaris
+299900;Ostergotland;Linkoping;Bensin;Automat;6158;2020;Coupe;Tvahjulsdriven;252;Svart;1998;2020-07-02;BMW;230
+299800;Ostergotland;Linkoping;Diesel;Automat;10291;2019;Kombi;Tvahjulsdriven;191;Svart;1969;2018-12-27;Volvo;V60
+334800;Ostergotland;Linkoping;Diesel;Automat;9143;2019;SUV;Fyrhjulsdriven;191;Gra;1995;2019-04-23;BMW;X3
+209800;Ostergotland;Norrkoping;Bensin;Automat;9240;2020;Kombi;Tvahjulsdriven;150;Svart;1498;2020-09-28;Skoda;Octavia
+218900;Ostergotland;Norrkoping;Diesel;Automat;17867;2019;Kombi;Tvahjulsdriven;191;Svart;1969;2019-05-09;Volvo;V90
+168900;Ostergotland;Norrkoping;Bensin;Automat;17474;2019;Kombi;Tvahjulsdriven;150;Silver;1498;2018-11-13;Volkswagen;Passat
+309900;Ostergotland;Norrkoping;Bensin;Automat;7100;2019;Halvkombi;Fyrhjulsdriven;191;Vit;1991;2019-06-24;Mercedes_Benz;A
+269000;Ostergotland;Norrkoping;Diesel;Automat;9510;2018;SUV;Fyrhjulsdriven;191;Gra;1969;2018-06-18;Volvo;XC40
+489000;Ostergotland;Norrkoping;Bensin;Automat;4459;2021;Cab;Tvahjulsdriven;259;Gra;1991;2021-07-09;Mercedes_Benz;C
+209800;Ostergotland;Linkoping;Diesel;Automat;17074;2016;Kombi;Fyrhjulsdriven;218;Vit;2967;2016-03-31;Audi;A6
+369800;Ostergotland;Linkoping;Bensin;Automat;2570;2020;Kombi;Fyrhjulsdriven;306;Rod;1998;2019-08-29;MINI;Countryman
+214800;Ostergotland;Linkoping;El;Automat;5785;2021;SUV;Tvahjulsdriven;143;Vit;0;2021-06-01;Mazda;MX-30
+419800;Ostergotland;Linkoping;Bensin;Automat;7337;2020;Sedan;Fyrhjulsdriven;259;Vit;1998;2019-10-14;BMW;330
+173900;Ostergotland;Linkoping;Bensin;Manuell;10313;2016;Kombi;Tvahjulsdriven;192;Rod;1998;2015-12-15;MINI;Clubman
+419900;Ostergotland;Norrkoping;Miljobransle_Hyb;Automat;1357;2022;Kombi;Fyrhjulsdriven;230;Svart;1598;2022-06-03;Kia;Sportage
+139000;Ostergotland;Linkoping;Diesel;Automat;18966;2011;Halvkombi;Fyrhjulsdriven;245;Svart;2993;2011-02-24;BMW;530
+109900;Ostergotland;Mjolby;Diesel;Manuell;11530;2012;Kombi;Tvahjulsdriven;116;Rod;1560;2011-09-06;Volvo;V60
+154800;Ostergotland;Linkoping;Bensin;Automat;5181;2017;Halvkombi;Tvahjulsdriven;116;Silver;1197;2017-08-14;Nissan;Pulsar
+319800;Ostergotland;Linkoping;Bensin;Automat;8251;2019;Halvkombi;Fyrhjulsdriven;252;Brun;1998;2018-09-24;BMW;430
+288900;Ostergotland;Linkoping;Miljobransle_Hyb;Automat;454;2023;Kombi;Tvahjulsdriven;141;Svart;1798;2023-04-24;Suzuki;Swace
+139800;Ostergotland;Linkoping;Bensin;Manuell;5056;2018;Kombi;Tvahjulsdriven;101;Rod;999;2018-03-28;Ford;Focus
+179800;Ostergotland;Linkoping;Diesel;Automat;14073;2015;Halvkombi;Tvahjulsdriven;136;Svart;2143;2015-08-10;Mercedes_Benz;A
+159800;Ostergotland;Linkoping;Diesel;Automat;6840;2013;Kombi;Tvahjulsdriven;204;Vit;2179;2013-07-17;Citroen;C5
+244500;Ostergotland;Norrkoping;Miljobransle_Hyb;Automat;4330;2020;Halvkombi;Tvahjulsdriven;150;Svart;1395;2020-11-05;Volkswagen;Golf
+379800;Ostergotland;Linkoping;Bensin;Automat;6865;2020;Halvkombi;Fyrhjulsdriven;245;Svart;1984;2020-04-02;Audi;A5
+169800;Ostergotland;Linkoping;Bensin;Automat;10252;2019;SUV;Tvahjulsdriven;141;Gra;1364;2018-11-22;Opel;Mokka
+239000;Skane;Malmo;Miljobransle_Hyb;Automat;179;2023;Halvkombi;Tvahjulsdriven;101;Vit;998;2023-10-30;Hyundai;Bayon
+199000;Skane;angelholm;Bensin;Manuell;1483;2023;SUV;Tvahjulsdriven;96;Gra;999;2023-01-27;Volkswagen;T-Cross
+194000;Skane;angelholm;Bensin;Manuell;2255;2023;SUV;Tvahjulsdriven;96;Vit;999;2022-12-29;Volkswagen;T-Cross
+199000;Skane;angelholm;Bensin;Manuell;1420;2023;SUV;Tvahjulsdriven;96;Gra;999;2023-01-13;Volkswagen;T-Cross
+199000;Skane;angelholm;Bensin;Manuell;2045;2023;SUV;Tvahjulsdriven;96;Vit;999;2023-01-13;Volkswagen;T-Cross
+189000;Skane;angelholm;Bensin;Manuell;3055;2023;SUV;Tvahjulsdriven;96;Vit;999;2022-10-17;Volkswagen;T-Cross
+189000;Skane;angelholm;Bensin;Manuell;2070;2023;SUV;Tvahjulsdriven;96;Vit;999;2022-12-22;Volkswagen;T-Cross
+179000;Skane;angelholm;Bensin;Manuell;2098;2022;SUV;Tvahjulsdriven;96;Svart;999;2022-05-04;Volkswagen;T-Cross
+204000;Skane;angelholm;Bensin;Automat;5622;2020;SUV;Tvahjulsdriven;116;Rod;999;2020-04-17;Volkswagen;T-Cross
+149900;Skane;Ystad;Bensin;Manuell;4283;2021;Halvkombi;Tvahjulsdriven;92;Svart;999;2021-10-21;Renault;Clio
+249000;Skane;Lund;Miljobransle_Hyb;Automat;4500;2021;SUV;Tvahjulsdriven;142;Gra;1580;2021-05-12;Kia;Niro
+229000;Skane;Malmo;Bensin;Manuell;4120;2021;Kombi;Tvahjulsdriven;179;Vit;1998;2021-03-30;MINI;Clubman
+384900;Skane;Malmo;Diesel;Automat;6178;2021;Kombi;Tvahjulsdriven;198;Gra;1969;2021-03-30;Volvo;V90
+149900;Skane;Kristianstad;El;Automat;5476;2020;Halvkombi;Tvahjulsdriven;83;Vit;0;2020-06-02;Skoda;Citigo
+249500;Skane;Malmo;Bensin;Automat;12130;2018;Halvkombi;Fyrhjulsdriven;252;Vit;1984;2017-12-28;Audi;A5
+248900;Skane;Malmo;El;Automat;2967;2022;Halvkombi;Tvahjulsdriven;218;Vit;0;2022-02-21;Nissan;Leaf
+144800;Skane;Malmo;Diesel;Automat;17259;2014;Kombi;Tvahjulsdriven;177;Vit;1968;2014-06-12;Audi;A6
+138900;Skane;Malmo;Bensin;Automat;6870;2016;Kombi;Tvahjulsdriven;82;Rod;1199;2017-02-03;Citroen;C4 Cactus
+189700;Skane;Malmo;Diesel;Automat;18793;2012;SUV;Fyrhjulsdriven;191;Vit;2179;2012-03-13;Land_Rover;Range Rover Evoque AWD
+214800;Skane;Malmo;Diesel;Automat;9289;2019;Halvkombi;Tvahjulsdriven;150;Gra;1969;2018-09-13;Volvo;V40
+144800;Skane;Malmo;Diesel;Automat;13646;2016;Kombi;Tvahjulsdriven;136;Svart;1582;2017-05-31;Kia;Ceed
+269800;Skane;Malmo;Diesel;Automat;8350;2020;Kombi;Tvahjulsdriven;191;Svart;1968;2020-09-15;Volkswagen;Passat
+159800;Skane;Malmo;Bensin;Automat;3771;2018;Kombi;Tvahjulsdriven;111;Vit;1598;2018-09-10;Fiat;Tipo
+374900;Skane;Kristianstad;Diesel;Automat;8998;2020;SUV;Tvahjulsdriven;191;Gra;1969;2019-06-14;Volvo;XC60
+469900;Skane;Malmo;Miljobransle_Hyb;Automat;8747;2021;SUV;Fyrhjulsdriven;266;Gra;1598;2021-03-05;Kia;Sorento
+149900;Skane;Kristianstad;Bensin;Automat;10989;2018;Halvkombi;Tvahjulsdriven;96;Silver;999;2017-11-22;Volkswagen;Polo
+379800;Skane;Malmo;El;Automat;2694;2021;Sedan;Tvahjulsdriven;326;Vit;0;2021-08-27;Tesla;Model 3
+179800;Skane;Malmo;El;Automat;10139;2018;Halvkombi;Tvahjulsdriven;136;Vit;0;2018-05-31;Volkswagen;E-Golf
+314800;Skane;Malmo;Miljobransle_Hyb;Automat;2859;2022;Kombi;Tvahjulsdriven;142;Gra;1580;2021-10-21;Kia;Ceed
+218900;Skane;Malmo;El;Automat;3141;2020;SUV;Tvahjulsdriven;143;Rod;0;2020-11-13;Mazda;MX-30
+185000;Skane;Lund;Miljobransle_Hyb;Automat;8296;2018;SUV;Tvahjulsdriven;142;Vit;1580;2017-10-19;Kia;Niro
+459000;Skane;Malmo;Bensin;Automat;17400;2018;SUV;Fyrhjulsdriven;510;Rod;2891;2018-05-11;Alfa Romeo;Stelvio
+199800;Skane;Malmo;Bensin;Automat;8600;2019;Halvkombi;Tvahjulsdriven;150;Svart;1498;2018-12-20;Audi;A3
+379500;Skane;Malmo;Diesel;Automat;3600;2021;Coupe;Tvahjulsdriven;150;Svart;1950;2020-08-03;Mercedes_Benz;CLA
+174900;Skane;Malmo;Bensin;Automat;11005;2020;Kombi;Tvahjulsdriven;141;Vit;1353;2020-09-29;Hyundai;i30
+249900;Skane;Malmo;Bensin;Automat;6093;2019;SUV;Fyrhjulsdriven;150;Svart;1995;2019-10-22;Subaru;Forester
+119900;Skane;Malmo;Diesel;Manuell;14300;2015;Kombi;Tvahjulsdriven;105;Rod;1598;2015-03-18;Volkswagen;Golf
+179000;Skane;angelholm;Bensin;Manuell;2650;2022;SUV;Tvahjulsdriven;96;Silver;999;2022-06-09;Volkswagen;T-Cross
+184500;Skane;Simrishamn;Diesel;Automat;15400;2019;SUV;Fyrhjulsdriven;136;Svart;1598;2018-08-30;Kia;Sportage
+119500;Skane;Vellinge;Bensin;Manuell;9961;2008;Cab;Tvahjulsdriven;164;Silver;1781;2009-03-04;Audi;A4
+249500;Skane;Vellinge;Diesel;Automat;9276;2019;Sedan;Fyrhjulsdriven;191;Bla;1968;2019-05-16;Volkswagen;Passat
+499900;Skane;Vellinge;El;Automat;1750;2021;SUV;Fyrhjulsdriven;514;Vit;0;2021-12-10;Tesla;Model Y
+223900;Skane;Malmo;Diesel;Automat;11869;2014;Sedan;Tvahjulsdriven;170;Svart;2143;2013-07-25;Mercedes_Benz;E
+104800;Skane;Malmo;El;Automat;11089;2019;Halvkombi;Tvahjulsdriven;109;Rod;0;2019-02-04;Renault;Zoe
+457900;Skane;Malmo;Miljobransle_Hyb;Automat;8836;2020;SUV;Fyrhjulsdriven;293;Gra;1998;2020-06-11;BMW;X3
+234000;Skane;Svedala;Bensin;Automat;13900;2017;Kombi;Tvahjulsdriven;255;Gra;1969;2017-05-02;Volvo;V90
+129900;Skane;Staffanstorp;Bensin;Manuell;10000;2017;SUV;Tvahjulsdriven;116;Brun;1197;2017-09-13;Nissan;Qashqai
+379900;Skane;Vellinge;Bensin;Manuell;5859;2013;Cab;Tvahjulsdriven;433;Rod;6162;2015-08-20;Chevrolet;Camaro
+269900;Skane;Vellinge;Diesel;Automat;11284;2013;Sedan;Fyrhjulsdriven;259;Gra;2993;2014-04-16;BMW;730
+354000;Skane;Hassleholm;Diesel;Automat;7508;2022;Kombi;Fyrhjulsdriven;200;Gra;1969;2022-01-25;Volvo;V60 Cross Country
+114800;Skane;Malmo;Bensin;Manuell;11336;2014;Halvkombi;Tvahjulsdriven;105;Silver;1197;2014-06-19;Volkswagen;Golf
+259800;Skane;Malmo;Diesel;Automat;13392;2017;Kombi;Tvahjulsdriven;195;Svart;1950;2017-06-30;Mercedes_Benz;E
+299800;Skane;Malmo;Diesel;Automat;8763;2020;SUV;Fyrhjulsdriven;191;Svart;1968;2020-02-14;Volkswagen;Tiguan
+114900;Skane;Eslov;Bensin;Manuell;11480;2016;Kombi;Tvahjulsdriven;127;Svart;999;2016-07-14;Ford;C-Max
+189900;Skane;Eslov;Diesel;Manuell;10469;2017;Kombi;Tvahjulsdriven;192;Gra;1969;2016-12-14;Volvo;V60
+279900;Skane;Eslov;Bensin;Automat;441;2023;Kombi;Tvahjulsdriven;142;Gra;1332;2023-06-30;Renault;Mégane
+119900;Skane;Burlov;Bensin;Manuell;10108;2018;Halvkombi;Tvahjulsdriven;101;Svart;998;2018-05-16;Ford;Fiesta
+169900;Skane;Malmo;Diesel;Automat;15700;2015;SUV;Fyrhjulsdriven;170;Rod;2143;2015-09-23;Mercedes_Benz;GLA
+129900;Skane;Burlov;Bensin;Automat;10876;2016;Kombi;Tvahjulsdriven;126;Gra;999;2015-12-22;Ford;Focus
+119000;Skane;Horby;Bensin;Manuell;9195;2017;SUV;Tvahjulsdriven;116;Gra;1197;2017-03-16;Nissan;Juke
+159900;Skane;Burlov;Diesel;Manuell;11856;2016;Halvkombi;Fyrhjulsdriven;150;Svart;1968;2016-04-26;Volkswagen;Golf
+124900;Skane;Helsingborg;Diesel;Manuell;21000;2015;Kombi;Tvahjulsdriven;115;Vit;1560;2014-12-23;Volvo;V60
+359900;Skane;Helsingborg;Bensin;Automat;9173;2018;Halvkombi;Fyrhjulsdriven;381;Svart;1991;2018-02-13;Mercedes_Benz;AMG
+349900;Skane;Kavlinge;Diesel;Automat;10890;2017;Sedan;Tvahjulsdriven;195;Gra;1950;2016-10-24;Mercedes_Benz;E
+279800;Skane;Malmo;El;Automat;8954;2020;SUV;Tvahjulsdriven;204;Gra;0;2020-08-05;Hyundai;Kona
+254900;Skane;Malmo;Miljobransle_Hyb;Automat;2220;2020;SUV;Tvahjulsdriven;123;Gra;1798;2020-10-29;Toyota;C-HR
+145000;Skane;Lund;Bensin;Automat;15106;2014;SUV;Fyrhjulsdriven;272;Svart;3239;2014-04-30;Jeep;Cherokee
+129000;Skane;Osby;Diesel;Automat;10200;2017;Kombi;Tvahjulsdriven;136;Rod;1582;2016-10-31;Kia;Soul
+239900;Skane;Malmo;Diesel;Automat;21800;2018;Kombi;Fyrhjulsdriven;191;Svart;2967;2018-04-18;Audi;A6
+425000;Skane;Lomma;Bensin;Automat;11055;2015;SUV;Fyrhjulsdriven;340;Svart;2997;2014-10-22;Porsche;Macan
+179000;Skane;Malmo;Bensin;Manuell;6500;2019;Kombi;Tvahjulsdriven;126;Gra;999;2020-06-29;Ford;Focus
+259900;Skane;Malmo;Bensin;Manuell;3900;2019;Sedan;Tvahjulsdriven;136;Svart;1332;2019-10-25;Mercedes_Benz;B
+104900;Skane;Lomma;Miljobransle_Hyb;Automat;17992;2013;Halvkombi;Fyrhjulsdriven;200;Vit;1997;2013-08-27;Citroen;DS5
+209800;Skane;Malmo;Diesel;Automat;14084;2016;Kombi;Tvahjulsdriven;191;Silver;1968;2016-06-29;Audi;A4
+144800;Skane;Malmo;Bensin;Automat;11075;2015;Halvkombi;Tvahjulsdriven;111;Silver;1197;2014-10-10;Volkswagen;Golf
+146900;Skane;Kristianstad;Bensin;Automat;12500;2015;Kombi;Tvahjulsdriven;141;Vit;1395;2015-01-12;Volkswagen;Golf
+119900;Skane;Eslov;Diesel;Automat;20800;2013;Kombi;Fyrhjulsdriven;170;Vit;1968;2012-10-26;Volkswagen;Passat
+179800;Skane;Malmo;El;Automat;6574;2019;Halvkombi;Tvahjulsdriven;120;Gra;0;2019-09-09;Hyundai;IONIQ
+162900;Skane;Malmo;El;Automat;3755;2018;Halvkombi;Tvahjulsdriven;93;Gra;0;2017-09-26;Renault;Zoe
+188900;Skane;Malmo;El;Automat;8670;2017;Halvkombi;Tvahjulsdriven;170;Vit;0;2017-07-10;BMW;i3
+319700;Skane;Malmo;El;Automat;12602;2019;Sedan;Fyrhjulsdriven;441;Gra;0;2019-09-30;Tesla;Model 3
+228900;Skane;Malmo;Miljobransle_Hyb;Automat;10255;2020;Kombi;Tvahjulsdriven;206;Vit;1999;2020-02-18;Kia;Optima
+149000;Skane;Kristianstad;Bensin;Automat;14900;2013;Halvkombi;Fyrhjulsdriven;211;Vit;1984;2012-11-26;Audi;A5
+179800;Skane;Malmo;Miljobransle_Hyb;Automat;18250;2019;Kombi;Tvahjulsdriven;206;Gra;1999;2019-03-07;Kia;Optima
+389800;Skane;Malmo;Miljobransle_Hyb;Automat;9203;2018;SUV;Fyrhjulsdriven;408;Bla;1969;2018-03-19;Volvo;XC60
+418900;Skane;Malmo;Miljobransle_Hyb;Automat;7177;2018;SUV;Fyrhjulsdriven;408;Bla;1969;2017-10-31;Volvo;XC60
+389800;Skane;Malmo;Miljobransle_Hyb;Automat;8867;2018;SUV;Fyrhjulsdriven;408;Bla;1969;2018-04-16;Volvo;XC60
+270000;Skane;Svedala;Bensin;Manuell;1900;2022;SUV;Tvahjulsdriven;131;Gra;1199;2022-05-27;Peugeot;3008
+260000;Skane;Helsingborg;Diesel;Automat;10610;2018;Kombi;Fyrhjulsdriven;191;Gra;1968;2018-06-27;Volkswagen;Passat
+388900;Skane;Malmo;El;Automat;8174;2021;Sedan;Fyrhjulsdriven;441;Vit;0;2021-06-03;Tesla;Model 3
+159800;Skane;Malmo;Miljobransle_Hyb;Automat;15512;2014;SUV;Fyrhjulsdriven;203;Bla;1998;2014-03-07;Mitsubishi;Outlander
+348900;Skane;Malmo;El;Automat;8576;2019;Sedan;Fyrhjulsdriven;441;Vit;0;2019-06-30;Tesla;Model 3
+224700;Skane;Malmo;Miljobransle_Hyb;Automat;4753;2019;SUV;Tvahjulsdriven;142;Svart;1580;2019-05-31;Kia;Niro
+139900;Skane;Helsingborg;Diesel;Automat;16300;2015;Kombi;Fyrhjulsdriven;177;Rod;1968;2014-08-01;Volkswagen;Passat
+114900;Skane;Helsingborg;Bensin;Manuell;13200;2017;Halvkombi;Tvahjulsdriven;102;Gra;1198;2016-12-15;MINI;One
+279000;Skane;Bjuv;Diesel;Automat;17300;2016;Halvkombi;Fyrhjulsdriven;259;Svart;2993;2016-06-30;BMW;430
+294900;Skane;Lomma;Bensin;Automat;8914;2016;Kombi;Fyrhjulsdriven;301;Vit;1984;2016-08-30;Volkswagen;Golf
+469900;Skane;Lomma;Miljobransle_Hyb;Automat;2700;2021;SUV;Fyrhjulsdriven;266;Svart;1598;2022-02-25;Hyundai;Santa Fe
+164800;Skane;Malmo;Miljobransle_Hyb;Automat;13412;2014;SUV;Fyrhjulsdriven;203;Svart;1998;2014-06-26;Mitsubishi;Outlander
+197900;Skane;Malmo;Miljobransle_Hyb;Automat;11491;2017;Kombi;Tvahjulsdriven;218;Vit;1395;2016-10-24;Volkswagen;Passat
+129900;Kalmar;Kalmar;Diesel;Manuell;12001;2016;Kombi;Tvahjulsdriven;112;Gra;1499;2016-03-30;Ford;Mondeo
+135000;Jonkoping;Jonkoping;Diesel;Automat;16300;2014;Kombi;Tvahjulsdriven;177;Vit;1968;2013-09-12;Audi;A6
+194900;Jonkoping;Varnamo;Bensin;Manuell;2155;2021;Halvkombi;Tvahjulsdriven;111;Vit;999;2021-02-27;Audi;A1
+135000;Jonkoping;Jonkoping;Diesel;Manuell;11445;2017;Halvkombi;Tvahjulsdriven;200;Vit;1969;2017-04-20;Volvo;V40
+358900;Kalmar;Kalmar;Miljobransle_Hyb;Automat;2899;2021;Kombi;Tvahjulsdriven;181;Bla;1598;2022-03-21;Peugeot;508
+184900;Jonkoping;Jonkoping;Bensin;Manuell;4100;2021;SUV;Tvahjulsdriven;111;Gra;999;2021-03-11;Volkswagen;T-Roc
+234900;Jonkoping;Jonkoping;Bensin;Automat;8810;2018;SUV;Fyrhjulsdriven;150;Silver;1395;2018-04-03;Volkswagen;Tiguan
+389900;Kalmar;Vimmerby;Bensin;Automat;900;2023;SUV;Tvahjulsdriven;131;Svart;1199;2023-08-15;Citroen;C5
+249900;Kalmar;Kalmar;Bensin;Automat;7661;2019;Kombi;Fyrhjulsdriven;177;Brun;1591;2018-11-19;Kia;Sportage
+357500;Jonkoping;Jonkoping;Miljobransle_Hyb;Automat;255;2023;Halvkombi;Tvahjulsdriven;142;Silver;1798;2023-11-06;Toyota;Corolla
+179900;Jonkoping;Varnamo;Bensin;Automat;17938;2018;SUV;Tvahjulsdriven;155;Vit;2494;2018-12-14;Toyota;RAV4
+229800;Kalmar;Kalmar;Diesel;Automat;11460;2017;SUV;Fyrhjulsdriven;191;Vit;1968;2016-12-07;Audi;Q5
+334900;Jonkoping;Jonkoping;Diesel;Automat;17500;2017;SUV;Fyrhjulsdriven;272;Bla;2967;2016-10-06;Audi;Q7
+309900;Kalmar;Kalmar;Diesel;Automat;6921;2020;Kombi;Tvahjulsdriven;192;Bla;1969;2020-03-19;Volvo;V60
+415000;Jonkoping;Varnamo;El;Automat;3300;2022;SUV;Fyrhjulsdriven;270;Svart;0;2022-10-14;Ford;Mustang Mach-E
+174900;Jonkoping;Jonkoping;Bensin;Manuell;4470;2021;Halvkombi;Tvahjulsdriven;131;Vit;1498;2020-09-23;Seat;Leon
+169000;Jonkoping;Jonkoping;Diesel;Automat;24451;2016;Kombi;Fyrhjulsdriven;181;Vit;2400;2016-05-31;Volvo;XC70
+239000;Gotland;Visby;Bensin;Automat;3405;2020;Halvkombi;Tvahjulsdriven;141;Svart;1353;2019-11-01;Kia;Xceed
+109000;Gotland;Visby;Diesel;Manuell;10070;2016;Halvkombi;Tvahjulsdriven;90;Gra;1461;2015-11-20;Renault;Clio
+209900;Gotland;Visby;Bensin;Manuell;2000;2021;SUV;Tvahjulsdriven;112;Vit;999;2021-03-26;Volkswagen;T-Roc
+209000;Gotland;Visby;Bensin;Automat;2895;2021;Halvkombi;Tvahjulsdriven;115;Svart;999;2021-07-01;Nissan;Juke
+439000;Gotland;Visby;Miljobransle_Hyb;Automat;8963;2021;SUV;Fyrhjulsdriven;185;Gra;2487;2021-08-12;Toyota;RAV4
+279800;Gotland;Visby;Bensin;Automat;5315;2020;SUV;Tvahjulsdriven;164;Rod;1477;2019-06-10;Volvo;XC40
+164800;Gotland;Visby;Miljobransle_Hyb;Manuell;1929;2020;Kombi;Tvahjulsdriven;131;Vit;1498;2020-08-31;Seat;Leon
+119800;Gotland;Visby;Bensin;Manuell;3990;2019;Halvkombi;Tvahjulsdriven;83;Vit;1199;2019-05-24;Citroen;C3
+169800;Gotland;Visby;Miljobransle_Hyb;Automat;7132;2020;Halvkombi;Tvahjulsdriven;126;Vit;999;2019-09-27;Ford;Focus
+269800;Gotland;Visby;Diesel;Automat;10528;2018;SUV;Fyrhjulsdriven;191;Gra;1968;2017-10-11;Skoda;Kodiaq
+285000;Gotland;Visby;El;Automat;5385;2021;Halvkombi;Tvahjulsdriven;204;Vit;0;2020-12-15;Volkswagen;ID.3
+319900;Gotland;Visby;Diesel;Automat;9915;2020;Kombi;Fyrhjulsdriven;241;Gra;1968;2019-12-06;Volkswagen;Passat
+279000;Jonkoping;Varnamo;Bensin;Automat;12700;2019;Kombi;Fyrhjulsdriven;179;Silver;2487;2019-05-09;Toyota;RAV4
+447900;Jonkoping;Jonkoping;Miljobransle_Hyb;Automat;187;2023;Kombi;Tvahjulsdriven;199;Vit;1987;2023-12-20;Toyota;Corolla
+173000;Jonkoping;Jonkoping;Bensin;Manuell;3897;2018;SUV;Tvahjulsdriven;116;Vit;999;2018-05-23;Volkswagen;T-Roc
+159900;Jonkoping;Jonkoping;El;Automat;6627;2020;Halvkombi;Tvahjulsdriven;83;Vit;0;2020-09-11;Seat;Mii
+408900;Jonkoping;Jonkoping;Bensin;Automat;1910;2023;Kombi;Tvahjulsdriven;150;Gra;1395;2023-03-30;Cupra;Formentor
+328900;Jonkoping;Jonkoping;Miljobransle_Hyb;Automat;1650;2022;Kombi;Tvahjulsdriven;150;Gra;1395;2022-06-27;Cupra;Leon
+150000;Kalmar;Nybro;Diesel;Automat;29241;2012;SUV;Fyrhjulsdriven;259;Svart;2987;2012-08-10;Mercedes_Benz;ML
+364000;Kalmar;Kalmar;Diesel;Automat;3390;2022;Kombi;Tvahjulsdriven;150;Svart;1950;2022-07-27;Mercedes_Benz;CLA
+169800;Kalmar;Kalmar;Bensin;Automat;3170;2020;Halvkombi;Tvahjulsdriven;116;Gra;999;2020-08-05;Seat;Ibiza
+148800;Kalmar;Kalmar;Bensin;Manuell;5574;2017;Kombi;Tvahjulsdriven;132;Rod;1197;2017-04-03;Renault;Megane
+235000;Kalmar;Vimmerby;Bensin;Automat;3500;2020;Halvkombi;Tvahjulsdriven;150;Vit;1498;2020-07-17;Audi;A3
+269000;Kalmar;Vimmerby;Miljobransle_Hyb;Automat;4200;2022;Kombi;Tvahjulsdriven;150;Gra;1395;2022-03-16;Seat;Leon
+124600;Kalmar;Kalmar;Bensin;Manuell;8608;2019;Halvkombi;Tvahjulsdriven;96;Vit;999;2019-03-19;Seat;Ibiza
+214800;Kalmar;Kalmar;Diesel;Automat;10226;2017;Kombi;Tvahjulsdriven;150;Svart;1969;2017-02-27;Volvo;V60
+289800;Kalmar;Kalmar;Miljobransle_Hyb;Automat;9684;2019;SUV;Fyrhjulsdriven;215;Svart;1993;2019-03-29;Honda;CR-V
+259800;Kalmar;Kalmar;Miljobransle_Hyb;Automat;6943;2018;Kombi;Fyrhjulsdriven;232;Bla;2400;2018-09-12;Volvo;V60
+254800;Kalmar;Kalmar;Bensin;Automat;9694;2018;Kombi;Tvahjulsdriven;191;Svart;1969;2018-06-28;Volvo;V90
+187900;Jonkoping;Jonkoping;Bensin;Automat;5000;2018;SUV;Tvahjulsdriven;116;Gra;1197;2018-05-25;Nissan;Qashqai
+299000;Kalmar;Vimmerby;Diesel;Automat;8408;2020;Kombi;Fyrhjulsdriven;191;Gra;1968;2020-10-19;Skoda;Kodiaq
+354800;Kalmar;Vastervik;El;Automat;85;2023;Halvkombi;Tvahjulsdriven;138;Svart;0;2022-12-30;Renault;Zoe
+174900;Jonkoping;Jonkoping;Bensin;Automat;4320;2021;Kombi;Tvahjulsdriven;111;Rod;999;2021-02-23;Seat;Arona
+204900;Jonkoping;Jonkoping;Miljobransle_Hyb;Automat;8649;2020;Kombi;Tvahjulsdriven;142;Bla;1580;2020-08-14;Kia;Niro
+229900;Jonkoping;Varnamo;Diesel;Automat;16400;2017;Sedan;Tvahjulsdriven;191;Svart;1968;2017-05-29;Audi;A6
+167901;Jonkoping;Gislaved;Diesel;Automat;28400;2019;Kombi;Tvahjulsdriven;191;Svart;1969;2018-11-19;Volvo;V60
+118000;Jonkoping;Hultsfred;Diesel;Manuell;19673;2014;Kombi;Tvahjulsdriven;215;Vit;2400;2014-02-21;Volvo;V70
+114000;Jonkoping;Jonkoping;Diesel;Manuell;21340;2014;Kombi;Tvahjulsdriven;164;Vit;1968;2013-11-20;Audi;A4
+259900;Kalmar;Oskarshamn;Bensin;Automat;3510;2021;SUV;Tvahjulsdriven;151;Vit;1498;2021-03-26;Volkswagen;Tiguan
+225000;Jonkoping;Jonkoping;Diesel;Automat;9999;2017;Kombi;Tvahjulsdriven;150;Svart;1969;2017-02-06;Volvo;V90
+238900;Kalmar;Kalmar;Bensin;Manuell;4441;2021;SUV;Tvahjulsdriven;116;Vit;999;2021-02-24;Skoda;Karoq
+255000;Kalmar;Vastervik;Bensin;Automat;3560;2021;Kombi;Tvahjulsdriven;111;Gra;999;2020-12-10;Skoda;Octavia
+199000;Kalmar;Vastervik;Bensin;Manuell;4370;2021;Halvkombi;Tvahjulsdriven;111;Rod;999;2021-02-18;Volkswagen;T-Roc
+259000;Kalmar;Vastervik;Bensin;Automat;6100;2018;SUV;Fyrhjulsdriven;191;Rod;1984;2018-10-11;Volkswagen;T-Roc
+219000;Kalmar;Kalmar;Miljobransle_Hyb;Automat;5187;2020;SUV;Tvahjulsdriven;142;Vit;1580;2019-10-21;Kia;Niro
+139900;Kalmar;Nybro;Diesel;Automat;12598;2015;SUV;Fyrhjulsdriven;164;Brun;1997;2014-06-18;Ford;Kuga
+169500;Jonkoping;Eksjo;Miljobransle_Hyb;Automat;2399;2019;Halvkombi;Tvahjulsdriven;131;Vit;1498;2020-03-30;Volkswagen;Golf
+259900;Jonkoping;Jonkoping;Bensin;Manuell;4620;2021;Halvkombi;Tvahjulsdriven;111;Svart;999;2021-01-26;Seat;Leon
+344900;Jonkoping;Jonkoping;Bensin;Automat;4910;2021;SUV;Fyrhjulsdriven;301;Svart;1984;2020-12-15;Cupra;Ateca
+239900;Jonkoping;Jonkoping;Miljobransle_Hyb;Automat;5320;2020;Kombi;Tvahjulsdriven;124;Vit;1798;2020-10-01;Toyota;Corolla
+269900;Jonkoping;Jonkoping;Miljobransle_Hyb;Automat;2000;2021;Kombi;Tvahjulsdriven;124;Vit;1798;2021-05-06;Toyota;Corolla
+199900;Jonkoping;Jonkoping;Miljobransle_Hyb;Automat;4474;2021;Halvkombi;Tvahjulsdriven;117;Vit;1490;2021-04-13;Toyota;Yaris
+199600;Kalmar;Kalmar;Bensin;Automat;11274;2019;Halvkombi;Tvahjulsdriven;150;Vit;1498;2019-03-26;Volkswagen;Golf
+178700;Kalmar;Kalmar;Miljobransle_Hyb;Automat;8793;2017;Kombi;Tvahjulsdriven;136;Vit;1798;2017-11-23;Toyota;Auris
+147900;Kalmar;Kalmar;Diesel;Automat;11877;2014;Halvkombi;Tvahjulsdriven;143;Gra;1995;2013-08-12;MINI;Cooper
+208700;Kalmar;Kalmar;Diesel;Automat;13612;2017;SUV;Fyrhjulsdriven;150;Svart;2268;2017-12-21;Mitsubishi;Outlander
+109900;Kalmar;Kalmar;Diesel;Manuell;8313;2016;Halvkombi;Tvahjulsdriven;100;Vit;1560;2016-09-02;Peugeot;208
+168800;Kalmar;Kalmar;Diesel;Automat;13395;2014;Kombi;Fyrhjulsdriven;184;Svart;1995;2014-05-06;BMW;320
+164800;Kalmar;Kalmar;Bensin;Manuell;5688;2020;Halvkombi;Tvahjulsdriven;131;Vit;1199;2020-06-12;Peugeot;308
+159700;Kalmar;Kalmar;Diesel;Manuell;6843;2012;Sedan;Tvahjulsdriven;116;Svart;1995;2012-05-25;BMW;316
+264800;Kalmar;Kalmar;Diesel;Automat;13370;2018;Kombi;Fyrhjulsdriven;236;Gra;1969;2018-06-26;Volvo;V90
+139800;Kalmar;Kalmar;Diesel;Automat;11441;2011;Sedan;Tvahjulsdriven;164;Gra;1984;2011-04-29;Volvo;S80
+134800;Kalmar;Kalmar;Diesel;Manuell;14933;2017;SUV;Tvahjulsdriven;111;Brun;1461;2017-03-28;Nissan;Qashqai
+239700;Kalmar;Kalmar;Diesel;Automat;9224;2016;Halvkombi;Fyrhjulsdriven;191;Vit;1995;2015-08-21;BMW;320
+169900;Kalmar;Kalmar;Diesel;Automat;23236;2015;Sedan;Fyrhjulsdriven;215;Vit;2400;2014-08-20;Volvo;S80
+159900;Kalmar;Vimmerby;Diesel;Automat;17001;2017;Kombi;Tvahjulsdriven;142;Vit;1685;2017-09-18;Kia;Optima
+159800;Kalmar;Kalmar;Bensin;Automat;14060;2016;Halvkombi;Tvahjulsdriven;126;Silver;1395;2016-05-02;Audi;A3
+184800;Kalmar;Kalmar;Bensin;Automat;17347;2011;Sedan;Fyrhjulsdriven;408;Gra;4395;2011-07-20;BMW;550
+169900;Kalmar;Kalmar;Bensin;Automat;1111;2018;SUV;Tvahjulsdriven;197;Silver;1197;2018-06-27;Renault;Captur
+104900;Kalmar;Kalmar;Bensin;Manuell;3850;2016;Kombi;Tvahjulsdriven;81;Vit;1193;2016-06-08;Mitsubishi;Space Star
+194700;Kalmar;Kalmar;Diesel;Automat;13300;2017;Halvkombi;Fyrhjulsdriven;191;Gra;1995;2017-05-19;BMW;320
+309800;Kalmar;Kalmar;Bensin;Automat;14700;2019;SUV;Fyrhjulsdriven;191;Vit;1984;2019-02-18;Skoda;Kodiaq
+299000;Kalmar;Gislaved;Miljobransle_Hyb;Automat;4650;2021;Halvkombi;Tvahjulsdriven;263;Bla;1332;2021-02-25;Mercedes_Benz;A
+165000;Kalmar;Vastervik;Bensin;Automat;9800;2018;Halvkombi;Tvahjulsdriven;126;Svart;1395;2018-06-20;Audi;A1
+164800;Kalmar;Kalmar;Miljobransle_Hyb;Automat;4000;2020;Kombi;Tvahjulsdriven;131;Vit;1498;2020-02-12;Volkswagen;Golf
+189900;Jonkoping;Jonkoping;Bensin;Manuell;2215;2021;SUV;Tvahjulsdriven;111;Vit;999;2021-05-27;Volkswagen;T-Roc
+189900;Jonkoping;Jonkoping;Diesel;Manuell;12258;2016;Kombi;Fyrhjulsdriven;191;Bla;1968;2015-08-05;Audi;A4
+109000;Kalmar;Kalmar;Bensin;Manuell;8790;2017;SUV;Tvahjulsdriven;119;Gra;1197;2023-01-12;Renault;Captur
+174900;Jonkoping;Jonkoping;Diesel;Automat;11260;2015;Sedan;Tvahjulsdriven;116;Svart;1560;2014-07-02;Volvo;S60
+249900;Jonkoping;Jonkoping;Miljobransle_Hyb;Automat;2100;2021;Kombi;Tvahjulsdriven;124;Bla;1798;2021-05-06;Toyota;Corolla
+189000;Jonkoping;Jonkoping;Miljobransle_Hyb;Manuell;17521;2002;Coupe;Tvahjulsdriven;232;Bla;2979;2001-11-26;BMW;330
+177000;Jonkoping;Jonkoping;Diesel;Automat;14500;2016;SUV;Tvahjulsdriven;191;Svart;1969;2015-10-01;Volvo;XC60
+115900;Jonkoping;Jonkoping;Bensin;Manuell;10800;2016;Halvkombi;Tvahjulsdriven;111;Rod;1197;2015-11-30;Volkswagen;Golf
+159000;Vastra Gotalands;Partille;Bensin;Manuell;13320;2010;Cab;Tvahjulsdriven;211;Silver;1984;2011-07-16;Audi;A5
+199800;Vastra Gotalands;Vastra Goteborg;Miljobransle_Hyb;Automat;2700;2016;Halvkombi;Tvahjulsdriven;170;Svart;0;2020-03-18;BMW;i3
+234900;Vastra Gotalands;Kungalv;Diesel;Automat;12989;2019;Kombi;Tvahjulsdriven;191;Bla;1969;2018-05-18;Volvo;V90
+188000;Vastra Gotalands;Kungalv;Bensin;Manuell;6300;2021;Halvkombi;Tvahjulsdriven;111;Silver;999;2021-03-24;Volkswagen;Golf
+129900;Vastra Gotalands;Kungalv;Miljobransle_Hyb;Manuell;5528;2019;Kombi;Tvahjulsdriven;90;Bla;999;2019-07-23;Seat;Arona
+409900;Vastra Gotalands;Kungalv;Diesel;Automat;10367;2016;SUV;Fyrhjulsdriven;225;Gra;1969;2017-05-29;Volvo;XC90
+369900;Vastra Gotalands;Lysekil;Miljobransle_Hyb;Automat;0;2023;SUV;Tvahjulsdriven;105;Vit;1580;NULL;Kia;Xceed
+279900;Vastra Gotalands;Kungalv;El;Automat;9150;2021;Kombi;Tvahjulsdriven;204;Gra;0;2022-03-08;Volkswagen;ID.3
+279900;Vastra Gotalands;Hisingen;Bensin;Automat;4589;2023;Halvkombi;Tvahjulsdriven;112;Silver;999;2023-09-27;Skoda;Scala
+179900;Vastra Gotalands;Hisingen;Bensin;Manuell;4520;2021;Halvkombi;Tvahjulsdriven;116;Gra;999;2020-12-18;Skoda;Scala
+234900;Vastra Gotalands;Hisingen;Diesel;Automat;14170;2017;SUV;Fyrhjulsdriven;177;Vit;2143;2016-11-14;Mercedes_Benz;GLA
+224900;Vastra Gotalands;Hisingen;Bensin;Automat;9415;2015;SUV;Tvahjulsdriven;157;Vit;1595;2015-09-25;Mercedes_Benz;GLA
+319800;Vastra Gotalands;Hisingen;Diesel;Automat;14300;2018;Kombi;Fyrhjulsdriven;236;Gra;1969;2017-09-04;Volvo;V90 Cross Country
+174800;Vastra Gotalands;Hisingen;Diesel;Automat;11800;2016;Kombi;Tvahjulsdriven;150;Vit;1968;2015-09-04;Volkswagen;Golf
+279800;Vastra Gotalands;Hisingen;Diesel;Automat;14500;2017;Kombi;Fyrhjulsdriven;259;Svart;2993;2017-08-25;BMW;530
+184900;Vastra Gotalands;Molndal;Bensin;Manuell;2489;2021;Halvkombi;Tvahjulsdriven;112;Gra;999;2020-12-18;Skoda;Scala
+489900;Vastra Gotalands;Molndal;Miljobransle_Hyb;Automat;2014;2023;Kombi;Tvahjulsdriven;218;Vit;1395;2023-06-26;Skoda;Superb
+319900;Vastra Gotalands;Hisingen;Diesel;Automat;5802;2018;Kombi;Tvahjulsdriven;301;Svart;2993;2020-03-12;Jaguar;XF
+239900;Vastra Gotalands;Hisingen;Miljobransle_Hyb;Automat;3696;2021;Kombi;Tvahjulsdriven;142;Gra;1580;2021-03-26;Kia;Ceed
+249900;Vastra Gotalands;Hisingen;Diesel;Automat;10886;2016;Kombi;Fyrhjulsdriven;259;Svart;2993;2016-03-17;BMW;530
+329000;Vastra Gotalands;Molndal;Diesel;Automat;10500;2020;SUV;Fyrhjulsdriven;192;Vit;1968;2020-09-14;Audi;A4
+249000;Vastra Gotalands;Molndal;Bensin;Automat;3762;2020;SUV;Tvahjulsdriven;151;Vit;1498;2019-12-04;Audi;Q2
+154800;Vastra Gotalands;Innerstaden;Bensin;Manuell;7790;2019;SUV;Tvahjulsdriven;96;Svart;999;2019-05-23;Volkswagen;T-Cross
+379900;Vastra Gotalands;Innerstaden;Bensin;Automat;10;2024;SUV;Tvahjulsdriven;150;Vit;1498;2024-02-29;Volkswagen;Tiguan Allspace
+469900;Vastra Gotalands;Hisingen;El;Automat;7930;2022;SUV;Fyrhjulsdriven;514;Gra;0;2022-03-19;Tesla;Model Y
+189000;Vastra Gotalands;Molndal;Bensin;Manuell;4799;2020;Halvkombi;Tvahjulsdriven;117;Vit;999;2020-05-08;Audi;A1
+142000;Vastra Gotalands;Hisingen;Diesel;Automat;13204;2013;Halvkombi;Tvahjulsdriven;109;Bla;1796;2012-12-07;Mercedes_Benz;B
+189900;Vastra Gotalands;Vastra Goteborg;Bensin;Manuell;1794;2022;SUV;Tvahjulsdriven;92;Svart;999;2022-07-01;Renault;Captur
+149900;Vastra Gotalands;Vastra Goteborg;Bensin;Manuell;3802;2021;Halvkombi;Tvahjulsdriven;92;Svart;999;2021-03-31;Renault;Clio
+279900;Vastra Gotalands;Vastra Goteborg;Bensin;Automat;5643;2021;SUV;Tvahjulsdriven;131;Vit;1477;2021-03-12;Volvo;XC40
+234900;Vastra Gotalands;Kungalv;Diesel;Automat;12392;2019;Kombi;Tvahjulsdriven;180;Svart;1999;2018-09-25;Jaguar;XF
+189900;Vastra Gotalands;Kungalv;Diesel;Automat;16750;2016;Kombi;Fyrhjulsdriven;191;Rod;1968;2015-08-19;Audi;A4
+211900;Vastra Gotalands;Kungalv;Diesel;Automat;10970;2016;Kombi;Fyrhjulsdriven;191;Svart;1968;2016-05-10;Audi;A4
+119900;Vastra Gotalands;Kungalv;Diesel;Automat;11500;2015;Halvkombi;Tvahjulsdriven;120;Rod;1560;2015-10-01;Citroen;C4
+194900;Vastra Gotalands;Kungalv;Diesel;Manuell;9700;2016;Kombi;Tvahjulsdriven;150;Vit;1968;2016-10-19;Skoda;Superb
+399900;Vastra Gotalands;Kungalv;El;Automat;14000;2020;Sedan;Fyrhjulsdriven;441;Bla;0;2019-12-20;Tesla;Model 3
+279900;Vastra Gotalands;Kungalv;Diesel;Automat;5500;2019;Kombi;Tvahjulsdriven;195;Svart;1950;2018-09-24;Mercedes_Benz;C
+139900;Vastra Gotalands;Kungalv;Miljobransle_Hyb;Manuell;5200;2016;Kombi;Tvahjulsdriven;111;Vit;1395;2016-07-27;Volkswagen;Golf
+114900;Vastra Gotalands;Kungalv;Bensin;Manuell;16950;2013;Halvkombi;Tvahjulsdriven;161;Rod;1390;2012-06-21;Volkswagen;Golf
+149900;Vastra Gotalands;Kungalv;Diesel;Manuell;18100;2018;Halvkombi;Fyrhjulsdriven;150;Vit;1968;2017-09-19;Volkswagen;Golf
+289900;Vastra Gotalands;Hisingen;Miljobransle_Hyb;Automat;9800;2021;Kombi;Tvahjulsdriven;221;Gra;1395;2020-11-18;Skoda;Superb
+289900;Vastra Gotalands;Vastra Goteborg;El;Automat;5050;2021;Halvkombi;Tvahjulsdriven;207;Gra;0;2020-12-21;Volkswagen;ID.3
+279900;Vastra Gotalands;Vastra Goteborg;Bensin;Automat;1650;2023;SUV;Tvahjulsdriven;151;Vit;1498;2023-02-24;Volkswagen;T-Roc
+325000;Vastra Gotalands;Stromstad;Diesel;Automat;11000;2017;SUV;Fyrhjulsdriven;191;Vit;3200;2017-11-15;Mitsubishi;Pajero
+214900;Vastra Gotalands;Molndal;Bensin;Manuell;2652;2022;Halvkombi;Tvahjulsdriven;136;Gra;1499;2021-07-01;MINI;Cooper
+349900;Vastra Gotalands;Uddevalla;Miljobransle_Hyb;Automat;14400;2020;SUV;Fyrhjulsdriven;306;Vit;2487;2020-10-01;Toyota;RAV4
+284900;Vastra Gotalands;Munkedal;El;Automat;3800;2021;SUV;Tvahjulsdriven;138;Gra;0;2021-06-16;Opel;Mokka-e
+189900;Vastra Gotalands;Uddevalla;Bensin;Manuell;3252;2021;SUV;Tvahjulsdriven;111;Vit;999;2021-04-30;Volkswagen;T-Roc
+324900;Vastra Gotalands;Molndal;Bensin;Automat;12080;2018;SUV;Fyrhjulsdriven;184;Svart;1998;2018-12-11;BMW;X3
+174900;Vastra Gotalands;Stromstad;Bensin;Automat;9950;2019;Sedan;Tvahjulsdriven;116;Svart;999;2019-10-11;Skoda;Octavia
+299900;Vastra Gotalands;Stromstad;Bensin;Automat;2470;2023;SUV;Tvahjulsdriven;150;Gra;1498;2022-11-16;Volkswagen;T-Roc
+249900;Vastra Gotalands;Stromstad;Bensin;Automat;6250;2021;Halvkombi;Tvahjulsdriven;150;Svart;1498;2021-03-18;Volkswagen;Golf
+299900;Vastra Gotalands;Stromstad;Bensin;Automat;9000;2020;Kombi;Fyrhjulsdriven;191;Silver;1984;2020-06-12;Volkswagen;Tiguan
+229900;Vastra Gotalands;Hisingen;Diesel;Automat;15018;2020;Kombi;Fyrhjulsdriven;191;Vit;1968;2020-03-05;Volkswagen;Passat
+389900;Vastra Gotalands;Hisingen;Bensin;Automat;13773;2018;SUV;Fyrhjulsdriven;334;Bla;2996;2017-12-14;Mercedes_Benz;GLE
+189900;Vastra Gotalands;Hisingen;Bensin;Automat;13837;2019;SUV;Fyrhjulsdriven;150;Silver;1998;2019-11-29;Mitsubishi;Outlander
+249800;Vastra Gotalands;Innerstaden;Bensin;Automat;2390;2023;SUV;Tvahjulsdriven;112;Silver;999;2022-11-10;Volkswagen;Taigo
+224800;Vastra Gotalands;Innerstaden;Bensin;Manuell;2240;2022;SUV;Tvahjulsdriven;112;Rod;999;2022-08-31;Volkswagen;T-Roc
+349000;Vastra Gotalands;Molndal;Miljobransle_Hyb;Automat;11173;2016;SUV;Fyrhjulsdriven;313;Svart;3456;2016-03-15;Lexus;RX
+214900;Vastra Gotalands;ostra Goteborg;Diesel;Automat;9600;2016;Sedan;Fyrhjulsdriven;184;Silver;1968;2016-06-10;Audi;A3
+199900;Vastra Gotalands;Vastra Goteborg;Bensin;Automat;3869;2021;SUV;Tvahjulsdriven;142;Rod;1332;2021-04-19;Renault;Captur
+269900;Vastra Gotalands;Vastra Goteborg;Diesel;Automat;16498;2019;SUV;Fyrhjulsdriven;192;Silver;1969;2019-02-05;Volvo;V90 Cross Country
+479900;Vastra Gotalands;Vastra Goteborg;Miljobransle_Hyb;Automat;4466;2021;SUV;Fyrhjulsdriven;344;Svart;1969;2020-12-09;Volvo;XC60
+344000;Vastra Gotalands;Vastra Goteborg;Diesel;Automat;16090;2014;SUV;Fyrhjulsdriven;387;Svart;2993;2013-12-20;BMW;X5
+219000;Vastra Gotalands;ostra Goteborg;Bensin;Automat;8100;2019;Halvkombi;Tvahjulsdriven;184;Svart;1998;2019-01-11;BMW;120
+379000;Vastra Gotalands;Uddevalla;Bensin;Automat;16495;2014;SUV;Fyrhjulsdriven;400;Silver;3604;2014-08-08;Porsche;Macan
+209000;Vastra Gotalands;Kungalv;Miljobransle_Hyb;Automat;15864;2018;Kombi;Fyrhjulsdriven;232;Silver;2400;2017-06-30;Volvo;V60
+195000;Vastra Gotalands;Vastra Goteborg;Bensin;Automat;9174;2010;Cab;Tvahjulsdriven;232;Vit;2996;2020-05-22;Mercedes_Benz;SLK
+219700;Vastra Gotalands;Goteborgs stad;El;Automat;4797;2020;Halvkombi;Tvahjulsdriven;136;Svart;0;2020-10-20;Peugeot;E-208
+297900;Vastra Gotalands;Goteborgs stad;El;Automat;2447;2023;Halvkombi;Tvahjulsdriven;184;Gra;0;2022-05-20;MINI;Cooper
+188700;Vastra Gotalands;Goteborgs stad;El;Automat;7070;2016;Halvkombi;Tvahjulsdriven;170;Svart;647;2015-12-11;BMW;i3
+499700;Vastra Gotalands;Goteborgs stad;El;Automat;5859;2021;SUV;Fyrhjulsdriven;346;Svart;0;2021-12-08;Tesla;Model Y
+424800;Vastra Gotalands;Goteborgs stad;Miljobransle_Hyb;Automat;13729;2016;SUV;Fyrhjulsdriven;417;Vit;2995;2016-03-23;Porsche;Cayenne
+139800;Vastra Gotalands;Goteborgs stad;El;Automat;13963;2016;Kombi;Tvahjulsdriven;111;Svart;0;2016-02-29;Kia;Soul
+139899;Vastra Gotalands;Vastra Goteborg;Diesel;Automat;18100;2015;Kombi;Fyrhjulsdriven;176;Gra;2191;2015-08-28;Mazda;6
+150000;Vastra Gotalands;Hisingen;Diesel;Automat;18772;2016;Kombi;Tvahjulsdriven;150;Svart;1969;2015-11-11;Volvo;V60
+144900;Vastra Gotalands;Molndal;Bensin;Manuell;5955;2021;Halvkombi;Tvahjulsdriven;96;Silver;999;2021-05-14;Skoda;Fabia
+339900;Vastra Gotalands;Molndal;Bensin;Automat;8699;2021;SUV;Fyrhjulsdriven;192;Vit;1984;2021-03-26;Skoda;Kodiaq
+179900;Vastra Gotalands;Hisingen;Bensin;Manuell;5990;2021;Halvkombi;Tvahjulsdriven;116;Gra;999;2020-12-03;Skoda;Scala
+370000;Vastra Gotalands;Vastra Centrum;Diesel;Automat;7500;2019;Kombi;Fyrhjulsdriven;191;Vit;1969;2019-03-05;Volvo;V90 Cross Country
+340000;Vastra Gotalands;Hisingen;Bensin;Automat;5700;2010;Cab;Tvahjulsdriven;340;Silver;2979;2013-03-22;BMW;Z4
+242800;Vastra Gotalands;Goteborgs stad;Miljobransle_Hyb;Automat;6930;2018;Sedan;Tvahjulsdriven;252;Svart;1998;2018-05-14;BMW;330e
+145000;Vastra Gotalands;Vastra Goteborg;Bensin;Automat;11599;2016;Kombi;Tvahjulsdriven;136;Bla;1499;2015-09-16;MINI;Clubman
+100000;Vastra Gotalands;ostra Goteborg;Diesel;Automat;20873;2011;Coupe;Tvahjulsdriven;184;Vit;1995;2010-12-06;BMW;320
+120000;Vastra Gotalands;Innerstaden;El;Automat;5589;2016;Halvkombi;Tvahjulsdriven;89;Vit;0;2016-09-09;Renault;Zoe
+239900;Vastra Gotalands;Hisingen;Bensin;Automat;4104;2021;SUV;Tvahjulsdriven;150;Vit;1498;2021-01-28;Volkswagen;T-Roc
+199900;Vastra Gotalands;Hisingen;Miljobransle_Hyb;Automat;8991;2019;Kombi;Tvahjulsdriven;123;Bla;1798;2019-09-10;Toyota;Corolla
+194900;Vastra Gotalands;Hisingen;Diesel;Automat;17073;2020;Kombi;Fyrhjulsdriven;184;Vit;1968;2020-03-24;Skoda;Octavia
+184900;Vastra Gotalands;Hisingen;Diesel;Manuell;4841;2018;Halvkombi;Fyrhjulsdriven;120;Vit;1598;2017-12-20;Suzuki;Vitara
+239999;Vastra Gotalands;Molndal;Diesel;Automat;7897;2019;Kombi;Tvahjulsdriven;150;Svart;1969;2019-03-18;Volvo;V60
+149900;Vastra Gotalands;Kungalv;Bensin;Automat;3330;2015;SUV;Tvahjulsdriven;120;Bla;1197;2015-04-02;Renault;Captur
+367000;Vastra Gotalands;Vastra Goteborg;Diesel;Automat;14685;2017;SUV;Fyrhjulsdriven;191;Vit;1969;2016-11-23;Volvo;XC90
+139000;Vastra Gotalands;Hisingen;Diesel;Automat;19700;2016;SUV;Fyrhjulsdriven;184;Vit;1968;2015-12-22;Volkswagen;Tiguan
+259900;Vastra Gotalands;Molndal;Bensin;Automat;2494;2021;Kombi;Tvahjulsdriven;112;Bla;999;2021-02-11;Skoda;Octavia
+259900;Vastra Gotalands;Molndal;Bensin;Manuell;2153;2021;Kombi;Tvahjulsdriven;151;Rod;1498;2021-02-11;Skoda;Octavia
+204800;Vastra Gotalands;Innerstaden;Bensin;Manuell;3350;2022;Halvkombi;Tvahjulsdriven;112;Vit;999;2022-08-31;Volkswagen;Golf
+139800;Vastra Gotalands;Innerstaden;El;Automat;3090;2019;Halvkombi;Tvahjulsdriven;83;Svart;0;2020-08-31;Volkswagen;e-up!
+399900;Vastra Gotalands;Stenungsund;Miljobransle_Hyb;Automat;2700;2023;Halvkombi;Tvahjulsdriven;170;Gron;1984;2022-10-14;Audi;A5
+239000;Vastra Gotalands;Hisingen;Miljobransle_Hyb;Automat;12300;2020;SUV;Tvahjulsdriven;225;Bla;2488;2020-05-25;Ford;Kuga
+429000;Vastra Gotalands;Hisingen;Diesel;Automat;4700;2022;SUV;Fyrhjulsdriven;200;Bla;1968;2022-11-18;Skoda;Kodiaq
+129900;Vastra Gotalands;Goteborgs stad;Miljobransle_Hyb;Automat;14398;2019;Halvkombi;Tvahjulsdriven;101;Vit;1497;2019-12-27;Toyota;Yaris
